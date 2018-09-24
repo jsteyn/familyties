@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jannetta</groupId>
+    <artifactId>genealogy</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <modules>
+        <module>migexamples</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.gedcom4j</groupId>
+            <artifactId>gedcom4j</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.netbeans.api/org-openide-util-lookup -->
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-openide-util-lookup</artifactId>
+            <version>RELEASE731</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.netbeans.api/org-openide-util -->
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-openide-util</artifactId>
+            <version>RELEASE731</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.netbeans.api/org-openide-awt -->
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-openide-awt</artifactId>
+            <version>RELEASE731</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.miglayout/miglayout-swing -->
+        <dependency>
+            <groupId>com.miglayout</groupId>
+            <artifactId>miglayout-swing</artifactId>
+            <version>5.2</version>
+        </dependency>
+
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>netbeans2</id>
+            <name>netbeans2</name>
+            <url>http://repo.spring.io/plugins-release/</url>
+        </repository>
+    </repositories>
+
+</project>
