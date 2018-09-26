@@ -6,16 +6,15 @@ import javax.swing.*;
 import java.awt.*;
 
 public class DashBoardPanels extends JPanel {
-    JPanel topsurnames = new JPanel();
-    JPanel welcome = new JPanel();
+    JPanel topsurnames = new JPanel(new BorderLayout());
+    JPanel welcome = new JPanel(new BorderLayout());
     JTextArea surnameArea = new JTextArea();
     JTextArea welcomeArea = new JTextArea();
 
 
     DashBoardPanels() {
         super();
-        MigLayout migLayout = new MigLayout();
-        setLayout(migLayout);
+        setLayout(new BorderLayout());
         surnameArea.setLineWrap(true);
         welcomeArea.setLineWrap(true);
         topsurnames.add(surnameArea);

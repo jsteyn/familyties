@@ -10,7 +10,6 @@ import java.util.Properties;
 public class JGramps {
     JFrame mainFrame = new JFrame();
     MainPanel mainPanel = new MainPanel();
-    DashBoardPanels dashBoardPanels = new DashBoardPanels();
     SidePanel sidePanel = new SidePanel();
 
     // menu bar
@@ -26,9 +25,6 @@ public class JGramps {
     ComponentController componentController = ComponentController.getInstance();
     JGramps() {
         componentController.setMainpanel(mainPanel);
-        componentController.setDashBoardPanels(dashBoardPanels);
-        mainPanel.add(dashBoardPanels);
-        dashBoardPanels.setVisible(false);
         JPopupMenu popupMenu = new JPopupMenu();
         mainFrame.setDefaultLookAndFeelDecorated(true);
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -50,9 +46,6 @@ public class JGramps {
 
         mainFrame.setJMenuBar(menuBar);
         mainFrame.add(toolBarMenu, BorderLayout.PAGE_START);
-
-      //  mainFrame.add(sidePanel);
-      //  mainFrame.add(mainPanel);
 
         JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, sidePanel, mainPanel);
         splitPane.setResizeWeight(0.5);

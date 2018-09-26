@@ -2,6 +2,9 @@ package view;
 
 import controller.ComponentController;
 import controller.GenDB2GEDCOM;
+import model.GEDCOM_DB;
+import org.gedcom4j.model.Gedcom;
+import org.gedcom4j.model.Individual;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
@@ -10,6 +13,8 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.io.*;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Properties;
 
 class MainMenuBar extends JMenuBar implements ActionListener {
@@ -205,9 +210,45 @@ class MainMenuBar extends JMenuBar implements ActionListener {
 
             String[] filesInDir = dataDir.list(textFilter);
             Arrays.sort(filesInDir);
-            database = (String) JOptionPane.showInputDialog(null, "Select database...", "Databases", JOptionPane.QUESTION_MESSAGE, null, filesInDir, filesInDir[0]);
-            componentController.getDashBoardPanels().setVisible(true);
-            System.out.println("set vis true");
+            //database = (String) JOptionPane.showInputDialog(null, "Select database...", "Databases", JOptionPane.QUESTION_MESSAGE, null, filesInDir, filesInDir[0]);
+            JFileChooser fileChooser = new JFileChooser(lastdir);
+            fileChooser.setDialogTitle("Select GenDB file");
+            FileNameExtensionFilter filter = new FileNameExtensionFilter("GEDCOM File", "ged");
+            fileChooser.setFileFilter(filter);
+            int returnVal = fileChooser.showOpenDialog(mainFrame);
+            if (returnVal == JFileChooser.APPROVE_OPTION) {
+                File file = fileChooser.getSelectedFile();
+                lastdir = file.getParent();
+                properties.setProperty("lastdir", lastdir);
+                try {
+                    OutputStream out = null;
+                    out = new FileOutputStream(f);
+                    properties.store(out, "This is an optional header comment string");
+                } catch (FileNotFoundException e1) {
+                    e1.printStackTrace();
+                } catch (IOException e1) {
+                    e1.printStackTrace();
+                }
+                String filename = file.getAbsolutePath();
+                Gedcom gedcom = GEDCOM_DB.readFile(filename);
+                HashMap<String, Integer> surnames = new HashMap<>();
+                Map<String, Individual> individualMap = gedcom.getIndividuals();
+                individualMap.forEach((key, individual) -> {
+                    if (surnames.containsKey(individual.)) {
+                        Integer count = surnames.get(surname) + 1;
+                    } else {
+                        surnames.put(surname, 1);
+                    }
+                });
+                surnames.forEach((surname, count) -> {
+                    System.out.println("Surname: " + surname + " (" + count.intValue() + ">");
+                });
+
+                componentController.getDashBoardPanels().setVisible(true);
+            }
+
+
+
         } else if (e.getActionCommand().equals("close")) {
             componentController.getMainpanel().setVisible(false);
             System.out.println("set vis false");

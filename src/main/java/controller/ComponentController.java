@@ -1,5 +1,6 @@
 package controller;
 
+import org.gedcom4j.model.Gedcom;
 import view.DashBoardPanels;
 import view.MainPanel;
 
@@ -8,8 +9,10 @@ import javax.swing.*;
 public class ComponentController {
 
     private DashBoardPanels dashBoardPanels;
-    private MainPanel mainpanel;
+    private JPanel mainpanel;
     static private ComponentController componentController = null;
+
+    private Gedcom gedcom;
 
     private  ComponentController() {
 
@@ -34,7 +37,15 @@ public class ComponentController {
         return mainpanel;
     }
 
-    public void setMainpanel(MainPanel mainpanel) {
+    public void setMainpanel(JPanel mainpanel) {
         this.mainpanel = mainpanel;
+    }
+
+    public Gedcom getGedcom() {
+        return gedcom;
+    }
+
+    public void setGedcom(Gedcom gedcom) {
+        this.gedcom = gedcom;
     }
 }
