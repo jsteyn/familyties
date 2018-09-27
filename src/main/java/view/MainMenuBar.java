@@ -2,6 +2,8 @@ package view;
 
 import controller.ComponentController;
 import controller.GenDB2GEDCOM;
+import controller.SortedSurnames;
+import controller.SurnameListEntry;
 import model.GEDCOM_DB;
 import org.gedcom4j.model.Gedcom;
 import org.gedcom4j.model.Individual;
@@ -12,10 +14,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.io.*;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Properties;
+import java.util.*;
 
 class MainMenuBar extends JMenuBar implements ActionListener {
     // to be moved
@@ -231,19 +230,39 @@ class MainMenuBar extends JMenuBar implements ActionListener {
                 }
                 String filename = file.getAbsolutePath();
                 Gedcom gedcom = GEDCOM_DB.readFile(filename);
-                HashMap<String, Integer> surnames = new HashMap<>();
+                //https://www.geeksforgeeks.org/collections-sort-java-examples/
+                ArrayList<SurnameListEntry> sn = new ArrayList<>();
+                HashMap<String, SurnameListEntry> surnames = new HashMap<>();
                 Map<String, Individual> individualMap = gedcom.getIndividuals();
+                int totalIndividuals = gedcom.getIndividuals().size();
                 individualMap.forEach((key, individual) -> {
-                    if (surnames.containsKey(individual.)) {
-                        Integer count = surnames.get(surname) + 1;
+                    String[] names = individual.getFormattedName().split(",");
+                    String surname = names[0];
+                    if (surnames.containsKey(surname)) {
+                        Integer count = surnames.get(surname).getCount() + 1;
+                        surnames.get(surname).setCount(count);
                     } else {
-                        surnames.put(surname, 1);
+                        surnames.put(surname, new SurnameListEntry(surname, 1));
                     }
                 });
                 surnames.forEach((surname, count) -> {
-                    System.out.println("Surname: " + surname + " (" + count.intValue() + ">");
+                    sn.add(count);
                 });
-
+                Collections.sort(sn, new SortedSurnames());
+                StringBuilder stats = new StringBuilder("");
+                for (int i = sn.size() - 1; i > sn.size() - 11; i--) {
+                    int total = sn.get(i).getCount();
+                    String surname;
+                    if (sn.get(i).getSurname().equals(""))
+                        surname = "[Missing Surname]";
+                    else
+                        surname = sn.get(i).getSurname();
+                    stats.append((sn.size() - i) + ". " + surname + ", "
+                            + (int)((double)total / (double)totalIndividuals * 100) + "% (" + total + ")\n");
+                }
+                stats.append("\nTotal unique surnames: " + sn.size());
+                stats.append("\nTotal people: "+ totalIndividuals);
+                componentController.getDashBoardPanels().surnameArea.setText(stats.toString());
                 componentController.getDashBoardPanels().setVisible(true);
             }
 

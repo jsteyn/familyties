@@ -585,7 +585,7 @@
 1 _DVP a1.b5.c1.d3.e1.f1.g3.h2.i1.
 0 @I6930@ INDI
 1 NAME  /Matthysen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Matthysen
 1 SEX M
 1 FAMS @F118@
@@ -2070,7 +2070,7 @@
 1 FAMS @F1182@
 0 @I7165@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F18@
@@ -2162,9 +2162,9 @@
 3 CONT 6. Anna Maria Johanna Henning *21-7-1935 (g4); 7. Josephus Jacobus Theodorus Henning *11-9-1936 (g5); 8. Maria Magdalena 
 4 CONC Henning *8-12-1937 (g6); 9. Fredrieka Jacoba *1-5-1947 (g7)
 0 @I2260@ INDI
-1 NAME Cornelia Anna-Marie /(Onbekend)/
+1 NAME Cornelia Anna-Marie //
 2 GIVN Cornelia Anna-Marie
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 BIRT
 2 DATE 24 FEB 1969
@@ -2312,7 +2312,7 @@
 1 _DVP a1.b5.c5.d9.e2.f2.g2.
 0 @I5868@ INDI
 1 NAME  /Du Rand/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Du Rand
 1 SEX M
 1 FAMS @F52@
@@ -2434,9 +2434,9 @@
 1 NOTE Geen kinders
 1 _DVP a1.b1.c6.d4.e4.f1.g1.
 0 @I10302@ INDI
-1 NAME Aletta Jacoba /(Onbekend)/
+1 NAME Aletta Jacoba //
 2 GIVN Aletta Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I10568@ INDI
 1 NAME Ludick /Henning/
@@ -3364,7 +3364,7 @@
 1 NOTE Sy is die kleindogter van mnr Ryk Harm, LV vir Smithfield, net voor die Tweede Vryheidsoorlog 1899 - 1902.
 0 @I12700@ INDI
 1 NAME  /Welman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Welman
 1 SEX M
 1 FAMS @F4732@
@@ -3953,7 +3953,7 @@
 1 FAMS @F1007@
 0 @I8102@ INDI
 1 NAME  /Denham/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Denham
 1 SEX M
 1 FAMS @F47@
@@ -4021,9 +4021,9 @@
 1 FAMS @F3648@
 1 _DVP a1.b1.c3.d4.e8.f3.g5.h1.
 0 @I9430@ INDI
-1 NAME Catharina /(Onbekend)/
+1 NAME Catharina //
 2 GIVN Catharina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F499@
 0 @I6805@ INDI
@@ -4456,7 +4456,7 @@
 1 FAMS @F1913@
 0 @I8106@ INDI
 1 NAME  /Marrillier/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marrillier
 1 SEX M
 1 FAMS @F116@
@@ -4539,7 +4539,7 @@
 1 FAMS @F1325@
 0 @I8103@ INDI
 1 NAME  /Mc Cook/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Mc Cook
 1 SEX M
 1 FAMS @F119@
@@ -4845,7 +4845,7 @@
 1 FAMS @F762@
 0 @I7171@ INDI
 1 NAME  /Scholtz/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Scholtz
 1 SEX M
 1 FAMS @F162@
@@ -5116,7 +5116,7 @@
 1 _DVP a1.b6.c4.d1.e5.f5.g6.h3.i1.
 0 @I4545@ INDI
 1 NAME  /Mynhardt/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Mynhardt
 1 SEX M
 1 FAMC @F2346@
@@ -5759,9 +5759,9 @@
 3 CONC s (i3) * 16-7-1993
 1 _DVP a1.b6.c4.d1.e5.f5.g6.h3.i2.
 0 @I2274@ INDI
-1 NAME Judith Magdalena /(Onbekend)/
+1 NAME Judith Magdalena //
 2 GIVN Judith Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I9574@ INDI
 1 NAME Aninka /Henning/
@@ -6406,7 +6406,7 @@
 1 FAMS @F4382@
 0 @I11755@ INDI
 1 NAME  /Van Der Vyver/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Vyver
 1 SEX M
 1 FAMS @F4420@
@@ -6562,7 +6562,7 @@
 1 FAMS @F3506@
 0 @I11620@ INDI
 1 NAME  /Henning/
-2 GIVN Onbekend
+2 GIVN 
 2 SURN Henning
 1 SEX M
 1 FAMC @F276@
@@ -6882,7 +6882,7 @@
 1 FAMS @F4382@
 0 @I11756@ INDI
 1 NAME  /Hoffman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Hoffman
 1 SEX M
 1 FAMS @F4421@
@@ -6935,9 +6935,9 @@
 2 TITL b1.c6.d3.e11.f3.g3. Petrus Henning *17-6-1950 en sy vrou Andree Elizabeth Mary (gebore Crosby) *14-3-1953
 1 _DVP a1.b1.c6.d3.e11.f3.g3.
 0 @I5740@ INDI
-1 NAME Jacoba /(Onbekend)/
+1 NAME Jacoba //
 2 GIVN Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I10558@ INDI
 1 NAME Tom /Gover/
@@ -7227,7 +7227,7 @@
 1 _DVP a1.b5.c1.d5.e6.f3.g1.h5.i1.j1.
 0 @I8119@ INDI
 1 NAME  /Williams/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Williams
 1 SEX M
 1 FAMS @F227@
@@ -7620,9 +7620,9 @@
 1 SEX F
 1 FAMS @F523@
 0 @I8111@ INDI
-1 NAME Beatrice Lillian /(Onbekend)/
+1 NAME Beatrice Lillian //
 2 GIVN Beatrice Lillian
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I1083@ INDI
 1 NAME Charles Meyers /Henning/
@@ -7804,7 +7804,7 @@
 1 _DVP a1.b5.c1.d1.e1.f9.g4.h2.i2.
 0 @I9448@ INDI
 1 NAME  /Brand/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Brand
 1 SEX M
 1 FAMS @F25@
@@ -7889,13 +7889,13 @@
 1 FAMS @F1825@
 0 @I9449@ INDI
 1 NAME  /Harrison/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Harrison
 1 SEX M
 1 FAMS @F69@
 0 @I8118@ INDI
 1 NAME  /Meyer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Meyer
 1 SEX M
 1 FAMS @F122@
@@ -7954,7 +7954,7 @@
 1 FAMS @F1745@
 0 @I8248@ INDI
 1 NAME  /Van Der Linde/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Linde
 1 SEX M
 1 FAMS @F188@
@@ -8153,9 +8153,9 @@
 4 MEDI photo
 2 TITL Maria Catharina Frederika Johanna Henning (gebore Botha) * 1830 tweede eggenote van b1.c6. Johannes Stephanus Henning
 0 @I1045@ INDI
-1 NAME Anna Francina /(Onbekend)/
+1 NAME Anna Francina //
 2 GIVN Anna Francina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F382@
 0 @I5972@ INDI
@@ -8762,9 +8762,9 @@
 1 NOTE Sterf twaalf dae na sy geboorte weens geboorte komplikasies. Een van 'n tweeling. Kyk h2.
 1 _DVP a1.b1.c3.d10.e7.f3.g6.h1.
 0 @I6074@ INDI
-1 NAME Johanna Maria /(Onbekend)/
+1 NAME Johanna Maria //
 2 GIVN Johanna Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1243@
 0 @I5843@ INDI
@@ -9131,7 +9131,7 @@
 1 FAMS @F4093@
 0 @I10323@ INDI
 1 NAME  /Le Grange/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Le Grange
 1 SEX M
 1 FAMS @F102@
@@ -9484,7 +9484,7 @@
 1 _DVP a1.b5.c5.d8.e4.f2.g1.h3.
 0 @I5844@ INDI
 1 NAME  /Knoetze/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Knoetze
 1 SEX M
 1 FAMS @F94@
@@ -9738,7 +9738,7 @@
 1 SEX F
 0 @I11655@ INDI
 1 NAME  /Luus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Luus
 1 SEX M
 1 FAMS @F4392@
@@ -10108,7 +10108,7 @@
 1 _DVP a1.b1.c3.d2.e2.f3.g1.
 0 @I4771@ INDI
 1 NAME  /Bezuidenhout/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bezuidenhout
 1 SEX M
 1 FAMS @F11@
@@ -10226,7 +10226,7 @@
 1 NOTE Haar naam en geboortebesonderhede is op die meesterrekord by die Bondsekretaris, Henning Familibond beskikbaar.
 0 @I4772@ INDI
 1 NAME  /Benson/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Benson
 1 SEX M
 1 FAMS @F9@
@@ -10252,9 +10252,9 @@
 1 FAMC @F2993@
 1 _DVP a1.b1.c1.d6.e2.f3.g2.h2.
 0 @I3574@ INDI
-1 NAME Anna Magdalena /(Onbekend)/
+1 NAME Anna Magdalena //
 2 GIVN Anna Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I11527@ INDI
 1 NAME Gerbrecht Elizabeth /Richter/
@@ -10506,9 +10506,9 @@
 1 FAMS @F330@
 1 FAMS @F1756@
 0 @I8216@ INDI
-1 NAME Christina Jacoba /(Onbekend)/
+1 NAME Christina Jacoba //
 2 GIVN Christina Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F539@
 0 @I9415@ INDI
@@ -10613,7 +10613,7 @@
 1 FAMC @F3018@
 0 @I7277@ INDI
 1 NAME  /Marais/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marais
 1 SEX M
 1 FAMS @F111@
@@ -10701,7 +10701,7 @@
 1 NOTE Kom reeds voor 1690 vanaf Normandièe, Frankryk, by die Kaap aan
 0 @I8476@ INDI
 1 NAME  /Bothma/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bothma
 1 SEX M
 0 @I8210@ INDI
@@ -10783,7 +10783,7 @@
 1 _DVP a1.b1.c8.d6.e2.f5.g2.h3.
 0 @I7276@ INDI
 1 NAME  /Venter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Venter
 1 SEX M
 1 FAMS @F215@
@@ -11421,9 +11421,9 @@
 1 SEX M
 1 FAMS @F539@
 0 @I10593@ INDI
-1 NAME Johanna Susanna /(Onbekend)/
+1 NAME Johanna Susanna //
 2 GIVN Johanna Susanna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1254@
 0 @I8348@ INDI
@@ -11445,9 +11445,9 @@
 1 SEX M
 1 FAMC @F3018@
 0 @I9410@ INDI
-1 NAME Johanna Aletta /(Onbekend)/
+1 NAME Johanna Aletta //
 2 GIVN Johanna Aletta
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1222@
 0 @I7017@ INDI
@@ -12953,9 +12953,9 @@
 2 PLAC Pretoria
 1 FAMS @F4431@
 0 @I1185@ INDI
-1 NAME Aletta /(Onbekend)/
+1 NAME Aletta //
 2 GIVN Aletta
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F276@
 0 @I5854@ INDI
@@ -13406,7 +13406,7 @@
 1 FAMC @F4430@
 0 @I8482@ INDI
 1 NAME  /Kruger/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kruger
 1 SEX M
 1 FAMS @F99@
@@ -13456,9 +13456,9 @@
 1 FAMS @F1523@
 1 _DVP a1.b7.c5.d1.e5.
 0 @I1183@ INDI
-1 NAME Elizabeth Catharina /(Onbekend)/
+1 NAME Elizabeth Catharina //
 2 GIVN Elizabeth Catharina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F615@
 0 @I3328@ INDI
@@ -15162,7 +15162,7 @@
 1 FAMS @F1399@
 0 @I8220@ INDI
 1 NAME  /Van Dyk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Dyk
 1 SEX M
 1 FAMS @F195@
@@ -15678,7 +15678,7 @@
 1 SEX M
 0 @I6929@ INDI
 1 NAME  /Gertenbach/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Gertenbach
 1 SEX M
 1 FAMS @F63@
@@ -16491,7 +16491,7 @@
 1 _DVP a1.b1.c6.d6.e8.f2.g2.h2.i2.
 0 @I4621@ INDI
 1 NAME  /Bouwer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bouwer
 1 SEX M
 1 FAMS @F24@
@@ -16685,7 +16685,7 @@
 1 _DVP a1.b6.c4.d3.e7.f11.g1.
 0 @I4622@ INDI
 1 NAME  /Van Der Westhuizen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Westhuizen
 1 SEX M
 1 FAMS @F193@
@@ -16898,9 +16898,9 @@
 4 MEDI photo
 2 TITL b6.c4.d3.e7.f11. Willem Frederik Henning * 6-2-1920 en sy vrou Louisa Elizabeth Robbertze * 18-5-1925 op hul troudag
 0 @I4623@ INDI
-1 NAME Susanna Carolina /(Onbekend)/
+1 NAME Susanna Carolina //
 2 GIVN Susanna Carolina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1657@
 0 @I4756@ INDI
@@ -16959,9 +16959,9 @@
 2 DATE 31 JAN 2004
 1 _DVP a1.b6.c4.d7.e8.f1.g5.h5.
 0 @I6184@ INDI
-1 NAME Hendrina Cecilia /(Onbekend)/
+1 NAME Hendrina Cecilia //
 2 GIVN Hendrina Cecilia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I6051@ INDI
 1 NAME Josef Jooste /Henning/
@@ -18329,9 +18329,9 @@
 2 DATE 25 NOV 1971
 1 FAMS @F4230@
 0 @I8329@ INDI
-1 NAME Adriaantjie /(Onbekend)/
+1 NAME Adriaantjie //
 2 GIVN Adriaantjie
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F257@
 0 @I388@ INDI
@@ -18768,7 +18768,7 @@
 1 _DVP a1.b6.c4.d3.e4.
 0 @I7255@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F2045@
@@ -18955,7 +18955,7 @@
 1 _DVP a1.b6.c4.d3.e7.f11.g1.h1.
 0 @I4627@ INDI
 1 NAME  /Norval/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Norval
 1 SEX M
 1 FAMS @F128@
@@ -19019,7 +19019,7 @@
 1 FAMS @F1743@
 0 @I5957@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 _DVP a1.b6.c1.d1.e18.f2.
@@ -19214,7 +19214,7 @@
 1 FAMS @F811@
 0 @I4628@ INDI
 1 NAME  /Sutherland/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Sutherland
 1 SEX M
 1 FAMS @F174@
@@ -19386,7 +19386,7 @@
 1 FAMS @F957@
 0 @I4629@ INDI
 1 NAME  /Kohne/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kohne
 1 SEX M
 1 FAMS @F95@
@@ -20064,7 +20064,7 @@
 3 CONC elle * 17-1-1974 (i1) en Laurette * 21-5-1976 (i2)
 0 @I4630@ INDI
 1 NAME  /Hubbard/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Hubbard
 1 SEX M
 1 FAMS @F77@
@@ -20187,7 +20187,7 @@
 1 _DVP a1.b1.c6.d4.e1.f3.
 0 @I4631@ INDI
 1 NAME  /Strydom/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Strydom
 1 SEX M
 1 FAMS @F172@
@@ -20409,13 +20409,13 @@
 1 NOTE Sy sterf as gevolg van masels en bronchitis in die Aliwal-Noord Konsentrasiekamp.
 1 _DVP a1.b1.c6.d4.e1.f4.
 0 @I5961@ INDI
-1 NAME Maria Elizabeth /(Onbekend)/
+1 NAME Maria Elizabeth //
 2 GIVN Maria Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I4632@ INDI
 1 NAME  /Venter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Venter
 1 SEX M
 1 FAMS @F213@
@@ -20735,7 +20735,7 @@
 1 FAMS @F1344@
 0 @I4633@ INDI
 1 NAME  /Van Der Linde/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Linde
 1 SEX M
 1 FAMS @F187@
@@ -21000,7 +21000,7 @@
 1 NOTE b4c4d1e1f4 in Buys geslagsregister
 0 @I4634@ INDI
 1 NAME  /Coetzer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Coetzer
 1 SEX M
 1 FAMS @F39@
@@ -21221,9 +21221,9 @@
 1 FAMC @F1010@
 1 _DVP a1.b1.c6.d4.e1.f7.
 0 @I10332@ INDI
-1 NAME John Walter /(Onbekend)/
+1 NAME John Walter //
 2 GIVN John Walter
-2 SURN (Onbekend)
+2 SURN 
 1 SEX M
 1 FAMS @F1@
 0 @I7262@ INDI
@@ -21470,9 +21470,9 @@
 3 CONC m se ouers, Hendrik Nicolaas Bekker Henning *11-7-1921 en Maria Catharina Henning (gebore Du Preez), die bruidspaar, die bruid s
 3 CONC e ouers, Paul Frederick Hèoltz en Anne Margaret Sophia Hèoltz (gebore Breen)
 0 @I10333@ INDI
-1 NAME  /(Onbekend)/
-2 GIVN (Onbekend)
-2 SURN (Onbekend)
+1 NAME  //
+2 GIVN 
+2 SURN 
 1 SEX F
 1 FAMS @F1@
 0 @I7261@ INDI
@@ -23358,9 +23358,9 @@
 1 FAMS @F4151@
 1 _DVP a1.b9.c1.d4.e4.f5.g1.
 0 @I8208@ INDI
-1 NAME Helena /(Onbekend)/
+1 NAME Helena //
 2 GIVN Helena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F903@
 0 @I267@ INDI
@@ -23790,7 +23790,7 @@
 1 FAMS @F818@
 0 @I8465@ INDI
 1 NAME  /Baker/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Baker
 1 SEX M
 0 @I5967@ INDI
@@ -23899,7 +23899,7 @@
 1 FAMS @F2920@
 0 @I7267@ INDI
 1 NAME  /Adendorff/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Adendorff
 1 SEX M
 1 FAMS @F2@
@@ -24018,9 +24018,9 @@
 1 FAMS @F1624@
 1 _DVP a1.b1.c6.d3.e3.
 0 @I9792@ INDI
-1 NAME Margaretha /(Onbekend)/
+1 NAME Margaretha //
 2 GIVN Margaretha
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F627@
 0 @I7000@ INDI
@@ -24227,7 +24227,7 @@
 1 _DVP a1.b1.c8.d6.e2.f2.
 0 @I9400@ INDI
 1 NAME  /Van Der Walt/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Walt
 1 SEX M
 1 FAMS @F192@
@@ -24437,7 +24437,7 @@
 1 FAMS @F1479@
 0 @I7268@ INDI
 1 NAME  /Lues/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Lues
 1 SEX M
 1 FAMS @F105@
@@ -24776,7 +24776,7 @@
 1 _DVP a1.b6.c4.d1.e5.f4.g10.h1.i3.
 0 @I4991@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX M
 1 BIRT
@@ -25373,9 +25373,9 @@
 1 FAMS @F3388@
 1 _DVP a1.b5.c2.d13.e1.f3.g4.
 0 @I7491@ INDI
-1 NAME Louisa Sophia /(Onbekend)/
+1 NAME Louisa Sophia //
 2 GIVN Louisa Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1371@
 0 @I5094@ INDI
@@ -25556,7 +25556,7 @@
 1 _DVP a1.b5.c4.d4.e2.f8.g2.
 0 @I7492@ INDI
 1 NAME  /Hays/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Hays
 1 SEX M
 1 FAMS @F70@
@@ -25647,9 +25647,9 @@
 1 FAMS @F2454@
 1 _DVP a1.b7.c13.d3.e1.
 0 @I10105@ INDI
-1 NAME Dolly Eloise /(Onbekend)/
+1 NAME Dolly Eloise //
 2 GIVN Dolly Eloise
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F693@
 0 @I10238@ INDI
@@ -26402,14 +26402,14 @@
 3 CONC 5) (regs) en Mercia * 27-9-1913 (f6)
 1 _DVP a1.b6.c3.d11.e8.f5.
 0 @I11304@ INDI
-1 NAME Marie /(Onbekend)/
+1 NAME Marie //
 2 GIVN Marie
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I11437@ INDI
-1 NAME  /(Onbekend)/
-2 GIVN Onbekend
-2 SURN (Onbekend)
+1 NAME  //
+2 GIVN 
+2 SURN 
 1 SEX F
 1 FAMS @F1520@
 0 @I2334@ INDI
@@ -26539,9 +26539,9 @@
 1 FAMC @F1777@
 1 FAMS @F1790@
 0 @I11305@ INDI
-1 NAME Marie? /(Onbekend)/
+1 NAME Marie? //
 2 GIVN Marie?
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1448@
 0 @I11438@ INDI
@@ -26938,7 +26938,7 @@
 3 CONC gter van e2. Anna Magdalena. Middel v.l.n.r. Gert van Biljon seun van e1. Elsie; f1. Christiaan Rudolf, seun van e3. Jan Hendrik
 3 CONC ; f6. Christiaan Rudolf, seun van e4 Olof Abraham. Die volgende 3 babas en die dogtertjie is onbekend, asook die baba wat deur e
 3 CONC 4.f1. Baltrine Frederika vassegou word. Agter v.l.n.r. Duifie, dogter van e5. Anna Christina; Elsie van Biljon, dogter van e1. E
-3 CONC lsie; f2. Anna, dogter van e3. Jan Hendrik; Onbekend; Dollie van Biljon, dogter van e1. Elsie.
+3 CONC lsie; f2. Anna, dogter van e3. Jan Hendrik; ; Dollie van Biljon, dogter van e1. Elsie.
 1 NOTE Anna Christina Vorster was die suster van Willem Vorster, die vader van wyle Staatspresident en Eeersteminister B J Vorst
 2 CONC er. Haar een suster, Martha Aletta, is met haar man se broer, Alwyn Petrus, b1.c3.d12. Getroud. 'n Derde (half) suster, Aletta S
 2 CONC usanna, is met b7.c2.d18. Marthinus Christoffel Henning getroud. Al drie families het hul tweede seun na die vrouens se vader, O
@@ -27462,7 +27462,7 @@
 1 FAMS @F540@
 0 @I4609@ INDI
 1 NAME  /Langeveldt/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Langeveldt
 1 SEX M
 1 FAMS @F100@
@@ -27516,7 +27516,7 @@
 3 CONC otte Francina Henning (b7.c8.d8.e3.f4.) en Hester Cornelia Henning (b7.c8.d8.e3.f5.)
 0 @I7106@ INDI
 1 NAME  /Van Vuuren/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Vuuren
 1 SEX M
 1 FAMS @F210@
@@ -27570,7 +27570,7 @@
 1 FAMS @F1718@
 0 @I8567@ INDI
 1 NAME  /Grobler/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Grobler
 1 SEX M
 1 FAMS @F66@
@@ -27584,7 +27584,7 @@
 1 FAMS @F2199@
 0 @I7105@ INDI
 1 NAME  /Roberts/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Roberts
 1 SEX M
 1 FAMS @F154@
@@ -27697,7 +27697,7 @@
 3 CONC ng (gebore Kleynhans, b7.c8.d8.e3.f5.)
 0 @I8568@ INDI
 1 NAME  /Swart/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Swart
 1 SEX M
 1 FAMS @F176@
@@ -28168,13 +28168,13 @@
 1 _DVP a1.b5.c4.d4.e1.f1.g4.
 0 @I6297@ INDI
 1 NAME  /Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rensburg
 1 SEX M
 1 FAMS @F203@
 0 @I8560@ INDI
 1 NAME  /Schoeman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Schoeman
 1 SEX M
 0 @I6164@ INDI
@@ -28707,7 +28707,7 @@
 1 FAMS @F922@
 0 @I6166@ INDI
 1 NAME  /Coetzee/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Coetzee
 1 SEX M
 1 FAMS @F37@
@@ -29844,7 +29844,7 @@
 1 _DVP a1.b6.c1.d3.e4.f2.g6.
 0 @I10240@ INDI
 1 NAME  /Van Zyl/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Zyl
 1 SEX M
 0 @I8564@ INDI
@@ -30437,7 +30437,7 @@
 1 _DVP a1.b5.c1.d5.e6.f1.g2.h2.i2.
 0 @I4874@ INDI
 1 NAME  /Venter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Venter
 1 SEX M
 1 FAMS @F214@
@@ -30808,7 +30808,7 @@
 1 _DVP a1.b1.c6.d3.e9.f6.
 0 @I5942@ INDI
 1 NAME  /Wessels/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Wessels
 1 SEX M
 1 FAMS @F224@
@@ -31494,9 +31494,9 @@
 2 PLAC Nigel
 1 FAMS @F3497@
 0 @I2210@ INDI
-1 NAME Alletha Jesina /(Onbekend)/
+1 NAME Alletha Jesina //
 2 GIVN Alletha Jesina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F308@
 0 @I12629@ INDI
@@ -31936,9 +31936,9 @@
 2 TITL Die Deense burger, Louis Pedersen en sy vrou Dagmar Lange, grootouers van Grethe Sejr Henning (gebore Petersen), eggenote
 3 CONC  van b7.c1.d10.e3.f5.g1. Leonard Henry Henning *  26-3-1934
 0 @I8316@ INDI
-1 NAME Danielina Jacoba /(Onbekend)/
+1 NAME Danielina Jacoba //
 2 GIVN Danielina Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F652@
 0 @I9777@ INDI
@@ -32453,7 +32453,7 @@
 1 FAMS @F731@
 0 @I8573@ INDI
 1 NAME  /Reed/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Reed
 1 SEX M
 1 FAMS @F151@
@@ -32666,7 +32666,7 @@
 1 FAMS @F3444@
 0 @I8574@ INDI
 1 NAME  /Swarts/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Swarts
 1 SEX M
 1 FAMS @F177@
@@ -32812,7 +32812,7 @@
 1 _DVP a1.b6.c1.d3.e4.f2.g4.h2.
 0 @I8570@ INDI
 1 NAME  /Stols/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Stols
 1 SEX M
 1 FAMS @F169@
@@ -32941,13 +32941,13 @@
 1 _DVP a1.b6.c1.d3.e4.f2.g4.h1.
 0 @I8571@ INDI
 1 NAME  /Van Antwerpen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Antwerpen
 1 SEX M
 1 FAMS @F184@
 0 @I8572@ INDI
 1 NAME  /Jansen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jansen
 1 SEX M
 1 FAMS @F82@
@@ -33511,7 +33511,7 @@
 1 FAMS @F4251@
 0 @I8575@ INDI
 1 NAME  /Stone/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Stone
 1 SEX M
 1 FAMS @F171@
@@ -33876,7 +33876,7 @@
 1 _DVP a1.b1.c6.d6.e7.f1.
 0 @I4972@ INDI
 1 NAME  /Jansen Van Vuuren/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jansen Van Vuuren
 1 SEX M
 1 FAMS @F83@
@@ -34900,7 +34900,7 @@
 1 FAMS @F4550@
 0 @I9608@ INDI
 1 NAME  /Rambert/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Rambert
 1 SEX M
 1 FAMS @F148@
@@ -35038,7 +35038,7 @@
 3 CONC llem Johannes se twee seuns
 0 @I10741@ INDI
 1 NAME  /Blanckenberg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Blanckenberg
 1 SEX M
 1 FAMS @F14@
@@ -35240,7 +35240,7 @@
 1 FAMS @F1368@
 0 @I8678@ INDI
 1 NAME  /Jones/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jones
 1 SEX M
 1 FAMS @F85@
@@ -35321,7 +35321,7 @@
 1 FAMS @F3732@
 0 @I7212@ INDI
 1 NAME  /Teessen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Teessen
 1 SEX M
 1 FAMS @F178@
@@ -35359,9 +35359,9 @@
 3 CONC met die doop van hul oudste dogter, Anna Susanna *4-5-1958 (h1)
 1 _DVP a1.b6.c4.d3.e5.f2.g3.
 0 @I9877@ INDI
-1 NAME Sandra /(Onbekend)/
+1 NAME Sandra //
 2 GIVN Sandra
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1619@
 0 @I9611@ INDI
@@ -35470,7 +35470,7 @@
 1 NOTE Hy en sy vrou was Franse Hugenote wat gedurende 1688 by die Kaap aangekom het.
 0 @I8679@ INDI
 1 NAME  /Strydom/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Strydom
 1 SEX M
 0 @I4718@ INDI
@@ -35803,9 +35803,9 @@
 1 FAMS @F1870@
 1 NOTE gebore VAN DER WALT
 0 @I2317@ INDI
-1 NAME Petronella Magdalena /(Onbekend)/
+1 NAME Petronella Magdalena //
 2 GIVN Petronella Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I5917@ INDI
 1 NAME Louisa Maria /Henning/
@@ -35857,7 +35857,7 @@
 1 FAMS @F1368@
 0 @I8677@ INDI
 1 NAME  /Booyse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Booyse
 1 SEX M
 0 @I7479@ INDI
@@ -36508,9 +36508,9 @@
 1 FAMC @F1061@
 1 _DVP a1.b1.c3.d5.e4.f1.g5.
 0 @I340@ INDI
-1 NAME Maria /(Onbekend)/
+1 NAME Maria //
 2 GIVN Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F635@
 1 NOTE Dogter van 'n slavin
@@ -37253,7 +37253,7 @@
 1 FAMC @F4447@
 0 @I3647@ INDI
 1 NAME  /Kindell/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kindell
 1 SEX M
 1 FAMS @F92@
@@ -37410,7 +37410,7 @@
 1 _DVP a1.b6.c1.d3.e4.f9.
 0 @I8541@ INDI
 1 NAME  /Els/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Els
 1 SEX M
 0 @I8674@ INDI
@@ -37421,13 +37421,13 @@
 1 FAMS @F1094@
 0 @I5912@ INDI
 1 NAME  /Harmse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Harmse
 1 SEX M
 1 FAMS @F68@
 0 @I3648@ INDI
 1 NAME  /Van Rooyen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rooyen
 1 SEX M
 1 FAMS @F207@
@@ -37612,7 +37612,7 @@
 1 _DVP a1.b6.c1.d3.e4.f8.
 0 @I8542@ INDI
 1 NAME  /Oosthuizen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Oosthuizen
 1 SEX M
 0 @I8675@ INDI
@@ -37623,7 +37623,7 @@
 1 FAMS @F1532@
 0 @I5911@ INDI
 1 NAME  /Sutherland/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Sutherland
 1 SEX M
 1 FAMS @F175@
@@ -37936,18 +37936,18 @@
 1 _DVP a1.b6.c3.d2.
 0 @I8540@ INDI
 1 NAME  /Pretorius/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pretorius
 1 SEX M
 0 @I8673@ INDI
 1 NAME  /Parsons/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Parsons
 1 SEX M
 1 FAMS @F135@
 0 @I5913@ INDI
 1 NAME  /Van Nieuwenhuizen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Nieuwenhuizen
 1 SEX M
 1 FAMS @F201@
@@ -38830,7 +38830,7 @@
 1 FAMS @F1392@
 0 @I9619@ INDI
 1 NAME  /Sarpo/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Sarpo
 1 SEX M
 1 FAMS @F158@
@@ -39252,9 +39252,9 @@
 1 SEX F
 1 FAMS @F1467@
 0 @I10863@ INDI
-1 NAME John /(Onbekend)/
+1 NAME John //
 2 GIVN John
-2 SURN (Onbekend)
+2 SURN 
 1 SEX M
 1 FAMS @F1309@
 0 @I1122@ INDI
@@ -39364,9 +39364,9 @@
 1 SEX F
 1 FAMS @F4589@
 0 @I10864@ INDI
-1 NAME  /(Onbekend)/
-2 GIVN (Onbekend)
-2 SURN (Onbekend)
+1 NAME  //
+2 GIVN 
+2 SURN 
 1 SEX F
 1 FAMC @F1309@
 1 OBJE
@@ -39758,7 +39758,7 @@
 1 FAMS @F4157@
 0 @I10601@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F1656@
@@ -39976,7 +39976,7 @@
 1 FAMS @F4547@
 0 @I10602@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F1656@
@@ -40146,9 +40146,9 @@
 1 SEX F
 1 FAMS @F740@
 0 @I10865@ INDI
-1 NAME Christa /(Onbekend)/
+1 NAME Christa //
 2 GIVN Christa
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMC @F1309@
 1 NOTE Een van 'n tweeling,  dood na 'n maand
@@ -40198,7 +40198,7 @@
 1 _DVP a1.b6.c3.d11.e8.f1.g3.h3.i2.
 0 @I7226@ INDI
 1 NAME  /Kent/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kent
 1 SEX M
 1 FAMS @F89@
@@ -40254,7 +40254,7 @@
 1 SEX F
 0 @I11931@ INDI
 1 NAME  /Morgan/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Morgan
 1 SEX F
 1 BIRT
@@ -40327,7 +40327,7 @@
 1 FAMS @F3337@
 0 @I10600@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX M
 1 FAMC @F1656@
@@ -40341,7 +40341,7 @@
 1 _DVP a1.b6.c4.d1.e5.f7.g8.h1.
 0 @I10738@ INDI
 1 NAME  /Seyffert/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Seyffert
 1 SEX M
 0 @I486@ INDI
@@ -40861,9 +40861,9 @@
 1 SEX F
 1 FAMC @F2380@
 0 @I10604@ INDI
-1 NAME Sophia /(Onbekend)/
+1 NAME Sophia //
 2 GIVN Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1636@
 0 @I2325@ INDI
@@ -41589,9 +41589,9 @@
 2 PLAC Johannesburg
 1 FAMS @F3979@
 0 @I10608@ INDI
-1 NAME Sophia /(Onbekend)/
+1 NAME Sophia //
 2 GIVN Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I6286@ INDI
 1 NAME Sarah Jeanette /Launspach/
@@ -41606,7 +41606,7 @@
 1 FAMS @F3084@
 0 @I8680@ INDI
 1 NAME  /Price/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Price
 1 SEX M
 0 @I6153@ INDI
@@ -42139,7 +42139,7 @@
 1 FAMS @F413@
 0 @I8684@ INDI
 1 NAME  /Jordaan/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jordaan
 1 SEX M
 0 @I11809@ INDI
@@ -42243,7 +42243,7 @@
 1 FAMS @F996@
 0 @I8685@ INDI
 1 NAME  /Du Plessis/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Du Plessis
 1 SEX M
 0 @I8552@ INDI
@@ -42542,9 +42542,9 @@
 1 SEX M
 1 FAMS @F4487@
 0 @I7318@ INDI
-1 NAME Sharon Elizabeth /(Onbekend)/
+1 NAME Sharon Elizabeth //
 2 GIVN Sharon Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F455@
 0 @I2687@ INDI
@@ -43532,9 +43532,9 @@
 1 FAMS @F2054@
 1 _DVP a1.b9.c3.d7.
 0 @I12062@ INDI
-1 NAME Izelle /(Onbekend)/
+1 NAME Izelle //
 2 GIVN Izelle
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4522@
 0 @I10631@ INDI
@@ -44368,9 +44368,9 @@
 2 DATE 11 MAR 1947
 1 FAMS @F3533@
 0 @I8785@ INDI
-1 NAME Jeanetta Sophia /(Onbekend)/
+1 NAME Jeanetta Sophia //
 2 GIVN Jeanetta Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1175@
 0 @I4828@ INDI
@@ -44441,9 +44441,9 @@
 2 DATE 1877
 1 FAMS @F4560@
 0 @I10636@ INDI
-1 NAME Aletta /(Onbekend)/
+1 NAME Aletta //
 2 GIVN Aletta
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F277@
 0 @I9851@ INDI
@@ -45627,7 +45627,7 @@
 1 _DVP a1.b10.c3.d4.e3.
 0 @I5182@ INDI
 1 NAME  /Watson/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Watson
 1 SEX M
 1 FAMS @F222@
@@ -46073,7 +46073,7 @@
 1 FAMS @F1346@
 0 @I5055@ INDI
 1 NAME  /Cilliers/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Cilliers
 1 SEX F
 1 FAMS @F33@
@@ -46350,7 +46350,7 @@
 3 CONC Petrus Jacobus Hennig
 0 @I3626@ INDI
 1 NAME  /Pretorius/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pretorius
 1 SEX M
 1 FAMS @F145@
@@ -46386,7 +46386,7 @@
 1 FAMC @F4054@
 0 @I3627@ INDI
 1 NAME  /Van Ek/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Ek
 1 SEX M
 1 FAMS @F196@
@@ -46489,7 +46489,7 @@
 1 _DVP a1.b5.c4.d4.e5.f7.g6.
 0 @I5056@ INDI
 1 NAME  /Lotter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Lotter
 1 SEX F
 1 FAMS @F104@
@@ -46963,7 +46963,7 @@
 1 _DVP a1.b1.c6.d6.e5.f2.
 0 @I5192@ INDI
 1 NAME  /Van Den Berg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Den Berg
 1 SEX M
 1 FAMS @F186@
@@ -48129,9 +48129,9 @@
 2 DATE 22 MAY 1968
 1 FAMS @F4517@
 0 @I12184@ INDI
-1 NAME Magdalena Maria /(Onbekend)/
+1 NAME Magdalena Maria //
 2 GIVN Magdalena Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4554@
 0 @I1496@ INDI
@@ -49316,9 +49316,9 @@
 1 SEX M
 1 FAMS @F394@
 0 @I8664@ INDI
-1 NAME Judik Petronella Hendrika /(Onbekend)/
+1 NAME Judik Petronella Hendrika //
 2 GIVN Judik Petronella Hendrika
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1150@
 0 @I8797@ INDI
@@ -49349,9 +49349,9 @@
 2 DATE 29 NOV 1921
 1 FAMS @F2857@
 0 @I7599@ INDI
-1 NAME Catharina Maria /(Onbekend)/
+1 NAME Catharina Maria //
 2 GIVN Catharina Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I7466@ INDI
 1 NAME Robert Stephen /Syrist/
@@ -50577,7 +50577,7 @@
 1 _DVP a1.b4.
 0 @I5909@ INDI
 1 NAME  /Pienaar/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pienaar
 1 SEX M
 1 FAMS @F139@
@@ -51230,7 +51230,7 @@
 1 FAMS @F3004@
 0 @I3768@ INDI
 1 NAME  /Bester/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bester
 1 SEX M
 1 FAMS @F10@
@@ -52368,7 +52368,7 @@
 1 FAMS @F3476@
 0 @I3990@ INDI
 1 NAME  /Van Jaarsveld/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Jaarsveld
 1 SEX M
 1 FAMS @F197@
@@ -52854,7 +52854,7 @@
 1 FAMS @F4327@
 0 @I8626@ INDI
 1 NAME  /Nel/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Nel
 1 SEX M
 1 FAMS @F126@
@@ -52880,7 +52880,7 @@
 1 FAMS @F3492@
 0 @I1465@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX M
 1 FAMC @F1842@
@@ -54320,7 +54320,7 @@
 1 _DVP a1.b6.c1.d3.e4.f2.g2.h1.i2.
 0 @I3605@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F598@
@@ -55813,9 +55813,9 @@
 2 DATE 12 DEC 1989
 1 FAMC @F1730@
 0 @I8899@ INDI
-1 NAME Susanna Catharina Francina /(Onbekend)/
+1 NAME Susanna Catharina Francina //
 2 GIVN Susanna Catharina Francina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1159@
 0 @I6238@ INDI
@@ -56320,7 +56320,7 @@
 1 _DVP a1.b5.c4.d4.e11.f1.g1.h1.
 0 @I4097@ INDI
 1 NAME  /Victor/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Victor
 1 SEX M
 1 FAMS @F216@
@@ -56382,7 +56382,7 @@
 1 FAMS @F462@
 0 @I4098@ INDI
 1 NAME  /Potgieter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Potgieter
 1 SEX M
 1 FAMS @F144@
@@ -56483,7 +56483,7 @@
 1 _DVP a1.b1.c6.d8.e8.f1.
 0 @I5031@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX M
 1 FAMC @F1166@
@@ -56576,7 +56576,7 @@
 1 FAMS @F1948@
 0 @I4099@ INDI
 1 NAME  /Marais/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marais
 1 SEX M
 1 FAMS @F109@
@@ -56738,7 +56738,7 @@
 1 FAMS @F534@
 0 @I4933@ INDI
 1 NAME  /Bezuidenhout/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bezuidenhout
 1 SEX M
 1 FAMS @F12@
@@ -56918,7 +56918,7 @@
 1 _DVP a1.b1.c6.d8.e8.f4.
 0 @I4934@ INDI
 1 NAME  /Zietsman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Zietsman
 1 SEX M
 1 FAMS @F228@
@@ -58088,7 +58088,7 @@
 1 FAMC @F2766@
 0 @I8509@ INDI
 1 NAME  /Posthumus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Posthumus
 1 SEX M
 0 @I2670@ INDI
@@ -58424,7 +58424,7 @@
 1 SEX M
 0 @I8508@ INDI
 1 NAME  /Lourens/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Lourens
 1 SEX M
 0 @I10777@ INDI
@@ -58616,7 +58616,7 @@
 1 _DVP a1.b1.c3.d2.e2.f7.g2.h1.
 0 @I4947@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F1458@
@@ -58756,9 +58756,9 @@
 1 BIRT
 2 DATE 29 JUN 1887
 0 @I2549@ INDI
-1 NAME Aletta Johanna /(Onbekend)/
+1 NAME Aletta Johanna //
 2 GIVN Aletta Johanna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F286@
 0 @I8510@ INDI
@@ -58783,7 +58783,7 @@
 1 FAMS @F4407@
 0 @I8776@ INDI
 1 NAME  /Izaakse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Izaakse
 1 SEX M
 1 FAMS @F79@
@@ -59431,7 +59431,7 @@
 1 FAMS @F4409@
 0 @I8513@ INDI
 1 NAME  /Lemmer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Lemmer
 1 SEX M
 0 @I7448@ INDI
@@ -59630,7 +59630,7 @@
 1 FAMS @F3422@
 0 @I8514@ INDI
 1 NAME  /Ferreira/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Ferreira
 1 SEX M
 0 @I8647@ INDI
@@ -59808,7 +59808,7 @@
 1 SEX M
 0 @I8511@ INDI
 1 NAME  /Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rensburg
 1 SEX M
 1 FAMS @F205@
@@ -60128,9 +60128,9 @@
 2 DATE 27 JAN 1933
 1 FAMS @F3122@
 0 @I5170@ INDI
-1 NAME Adriana Jacoba /(Onbekend)/
+1 NAME Adriana Jacoba //
 2 GIVN Adriana Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I4940@ INDI
 1 NAME Susanna Dorothea Maria Magdalena /Van Eeden/
@@ -60217,7 +60217,7 @@
 1 _DVP a1.b1.c6.d8.e8.f11.
 0 @I5174@ INDI
 1 NAME  /Kat/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kat
 1 SEX M
 1 FAMS @F88@
@@ -60254,7 +60254,7 @@
 1 _DVP a1.b1.c6.d4.e4.f4.g2.
 0 @I5172@ INDI
 1 NAME  /Farinha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Farinha
 1 SEX M
 1 FAMS @F58@
@@ -60306,7 +60306,7 @@
 1 _DVP a1.b1.c6.d4.e4.f4.g3.
 0 @I5173@ INDI
 1 NAME  /Engelbrecht/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Engelbrecht
 1 SEX M
 1 FAMS @F53@
@@ -60391,9 +60391,9 @@
 1 SEX M
 1 FAMS @F891@
 0 @I5176@ INDI
-1 NAME Mary Elizabeth /(Onbekend)/
+1 NAME Mary Elizabeth //
 2 GIVN Mary Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 DEAT
 2 DATE 27 JAN 1970
@@ -60437,7 +60437,7 @@
 1 FAMS @F3746@
 0 @I4944@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F1458@
@@ -60532,7 +60532,7 @@
 1 _DVP a1.b6.c4.d7.e1.f7.g2.
 0 @I5175@ INDI
 1 NAME  /Harmse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Harmse
 1 SEX M
 1 FAMS @F67@
@@ -60696,7 +60696,7 @@
 1 _DVP a1.b1.c6.d6.e4.f1.g3.h3.
 0 @I4946@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F1458@
@@ -60740,7 +60740,7 @@
 1 _DVP a1.b1.c3.d2.e2.f7.g2.h2.
 0 @I3615@ INDI
 1 NAME  /Campbell/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Campbell
 1 SEX M
 1 FAMS @F31@
@@ -60874,7 +60874,7 @@
 1 FAMS @F987@
 0 @I8608@ INDI
 1 NAME  /Van Der Merwe/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Merwe
 1 SEX M
 1 FAMS @F189@
@@ -60919,7 +60919,7 @@
 1 _DVP a1.b5.c4.d4.e2.f4.g1.h3.i3.
 0 @I8609@ INDI
 1 NAME  /Van Der Merwe/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Merwe
 1 SEX M
 1 FAMS @F190@
@@ -61011,7 +61011,7 @@
 1 FAMS @F4462@
 0 @I3970@ INDI
 1 NAME  /De Villiers/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN De Villiers
 1 SEX M
 1 FAMS @F46@
@@ -61165,7 +61165,7 @@
 1 _DVP a1.b7.c8.d5.e11.f2.g2.h1.
 0 @I4907@ INDI
 1 NAME  /Ferreira/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Ferreira
 1 SEX M
 1 FAMS @F59@
@@ -61283,7 +61283,7 @@
 1 FAMS @F2682@
 0 @I10544@ INDI
 1 NAME  /De Klerk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN De Klerk
 1 SEX M
 0 @I10677@ INDI
@@ -61419,7 +61419,7 @@
 1 SEX M
 0 @I4908@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F2396@
@@ -62010,7 +62010,7 @@
 1 _DVP a1.b5.c4.d4.e1.f1.g3.h4.
 0 @I8601@ INDI
 1 NAME  /Van Schalkwyk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Schalkwyk
 1 SEX M
 0 @I7403@ INDI
@@ -62501,7 +62501,7 @@
 1 _DVP a1.b6.c4.d7.e6.
 0 @I8604@ INDI
 1 NAME  /Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rensburg
 1 SEX M
 1 DEAT
@@ -62681,9 +62681,9 @@
 2 DATE 30 NOV 1977
 1 FAMS @F3595@
 0 @I8738@ INDI
-1 NAME Anna Jacoba /(Onbekend)/
+1 NAME Anna Jacoba //
 2 GIVN Anna Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F385@
 0 @I10547@ INDI
@@ -62825,9 +62825,9 @@
 1 FAMS @F3719@
 1 _DVP a1.b5.c4.d4.e5.f2.g1.h1.
 0 @I5277@ INDI
-1 NAME Cornelia Hendrika /(Onbekend)/
+1 NAME Cornelia Hendrika //
 2 GIVN Cornelia Hendrika
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 BIRT
 2 DATE 23 AUG 1953
@@ -63273,9 +63273,9 @@
 1 FAMS @F3944@
 1 _DVP a1.b5.c4.d4.e5.f2.g1.h3.
 0 @I7672@ INDI
-1 NAME Anna /(Onbekend)/
+1 NAME Anna //
 2 GIVN Anna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I10418@ INDI
 1 NAME Sarel Jacobus /Du Plessis/
@@ -63636,7 +63636,7 @@
 1 _DVP a1.b1.c3.d4.e8.f4.g6.
 0 @I8610@ INDI
 1 NAME  /Richards/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Richards
 1 SEX M
 1 FAMS @F153@
@@ -64376,9 +64376,9 @@
 2 TITL B086. b5.c4.d4.e1.f1.g3.h4.i2. Annelize Henning *28-9-1981 en haar man, Johannes Hendrik Strydom *3-1-1983
 1 _DVP a1.b5.c4.d4.e1.f1.g3.h4.i2.
 0 @I1575@ INDI
-1 NAME N. N. /(Onbekend)/
+1 NAME N. N. //
 2 GIVN N. N.
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1502@
 1 NOTE Vrou van David Stefanus Henning
@@ -64490,7 +64490,7 @@
 1 _DVP a1.b1.c6.d14.e5.f1.
 0 @I3840@ INDI
 1 NAME  /Wilken/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Wilken
 1 SEX M
 1 FAMS @F226@
@@ -64692,9 +64692,9 @@
 1 FAMC @F3183@
 1 _DVP a1.b1.c6.d6.e10.f4.g1.
 0 @I5272@ INDI
-1 NAME Maria Magritha Wilhelmina /(Onbekend)/
+1 NAME Maria Magritha Wilhelmina //
 2 GIVN Maria Magritha Wilhelmina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I3710@ INDI
 1 NAME Louise Christine /Seyffert/
@@ -64869,7 +64869,7 @@
 1 _DVP a1.b1.c3.d4.e8.f4.g7.h1.i1.
 0 @I4910@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F2396@
@@ -65157,9 +65157,9 @@
 1 SEX M
 1 FAMS @F465@
 0 @I3982@ INDI
-1 NAME Katherine Louis /(Onbekend)/
+1 NAME Katherine Louis //
 2 GIVN Katherine Louis
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I6217@ INDI
 1 NAME Willem Sterrenberg /Van Der Merwe/
@@ -65368,7 +65368,7 @@
 2 TITL Anna-Maria Henning (gebore De Beer) * 15-4-1942, vrou van b5.c5.d7.e4.f4.g5.
 0 @I8614@ INDI
 1 NAME  /Botes/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botes
 1 SEX M
 0 @I1586@ INDI
@@ -65789,7 +65789,7 @@
 1 _DVP a1.b7.c7.d9.
 0 @I8878@ INDI
 1 NAME  /Kotze/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kotze
 1 SEX M
 1 FAMS @F96@
@@ -66059,9 +66059,9 @@
 1 SEX M
 1 FAMC @F3458@
 0 @I12092@ INDI
-1 NAME Suzanne /(Onbekend)/
+1 NAME Suzanne //
 2 GIVN Suzanne
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4532@
 0 @I11995@ INDI
@@ -66172,9 +66172,9 @@
 1 SEX F
 1 FAMS @F319@
 0 @I10664@ INDI
-1 NAME Sandra /(Onbekend)/
+1 NAME Sandra //
 2 GIVN Sandra
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F488@
 0 @I8746@ INDI
@@ -66280,9 +66280,9 @@
 1 SEX F
 1 FAMS @F4459@
 0 @I9816@ INDI
-1 NAME Jeanette /(Onbekend)/
+1 NAME Jeanette //
 2 GIVN Jeanette
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F296@
 0 @I1582@ INDI
@@ -67519,7 +67519,7 @@
 1 _DVP a1.b5.c4.d1.e1.f6.
 0 @I5158@ INDI
 1 NAME  /Spies/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Spies
 1 SEX M
 1 FAMS @F168@
@@ -68055,7 +68055,7 @@
 1 _DVP a1.b7.c13.d5.
 0 @I8889@ INDI
 1 NAME  /Theron/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Theron
 1 SEX F
 1 FAMS @F180@
@@ -68220,7 +68220,7 @@
 1 _DVP a1.b6.c4.d7.e1.f4.g1.
 0 @I8756@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F21@
@@ -68708,7 +68708,7 @@
 3 CONC gter van e2. Anna Magdalena. Middel v.l.n.r. Gert van Biljon seun van e1. Elsie; f1. Christiaan Rudolf, seun van e3. Jan Hendrik
 3 CONC ; f6. Christiaan Rudolf, seun van e4 Olof Abraham. Die volgende 3 babas en die dogtertjie is onbekend, asook die baba wat deur e
 3 CONC 4.f1. Baltrine Frederika vassegou word. Agter v.l.n.r. Duifie, dogter van e5. Anna Christina; Elsie van Biljon, dogter van e1. E
-3 CONC lsie; f2. Anna, dogter van e3. Jan Hendrik; Onbekend; Dollie van Biljon, dogter van e1. Elsie.
+3 CONC lsie; f2. Anna, dogter van e3. Jan Hendrik; ; Dollie van Biljon, dogter van e1. Elsie.
 0 @I11608@ INDI
 1 NAME David Frederick /Naude/
 2 GIVN David Frederick
@@ -68952,9 +68952,9 @@
 2 SURN Steyn
 1 SEX F
 0 @I5281@ INDI
-1 NAME Maria Jacomiena Catriena /(Onbekend)/
+1 NAME Maria Jacomiena Catriena //
 2 GIVN Maria Jacomiena Catriena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I4085@ INDI
 1 NAME Lourens Jacobus /Botha/
@@ -69130,7 +69130,7 @@
 1 _DVP a1.b5.c4.d8.
 0 @I6482@ INDI
 1 NAME  /Mans/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Mans
 1 SEX M
 1 FAMS @F108@
@@ -69973,7 +69973,7 @@
 1 NOTE Sy en haar kleinseun, Pieter Hendrik (h2.i1) sterf in 'n motorongeluk. Haar man word ernstig beseer
 0 @I5116@ INDI
 1 NAME  /Bekker/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bekker
 1 SEX M
 1 FAMS @F5@
@@ -70056,9 +70056,9 @@
 2 PLAC Upington
 1 FAMS @F3215@
 0 @I1683@ INDI
-1 NAME Mieta /(Onbekend)/
+1 NAME Mieta //
 2 GIVN Mieta
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1149@
 0 @I2880@ INDI
@@ -71046,7 +71046,7 @@
 1 FAMC @F4654@
 0 @I5386@ INDI
 1 NAME  /Pienaar/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pienaar
 1 SEX M
 1 FAMS @F138@
@@ -71121,7 +71121,7 @@
 1 FAMS @F980@
 0 @I5120@ INDI
 1 NAME  /Erasmus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Erasmus
 1 SEX M
 1 FAMS @F56@
@@ -71640,9 +71640,9 @@
 1 FAMC @F2645@
 1 _DVP a1.b1.c3.d10.e9.f2.g1.
 0 @I6585@ INDI
-1 NAME Martha Johanna Maria /(Onbekend)/
+1 NAME Martha Johanna Maria //
 2 GIVN Martha Johanna Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F667@
 0 @I4057@ INDI
@@ -71708,7 +71708,7 @@
 1 _DVP a1.b9.c1.d2.e1.f5.g3.h3.
 0 @I5387@ INDI
 1 NAME  /Rudolph/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Rudolph
 1 SEX M
 1 FAMS @F157@
@@ -71733,7 +71733,7 @@
 1 SEX M
 0 @I5121@ INDI
 1 NAME  /Van Den Berg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Den Berg
 1 SEX M
 1 FAMS @F185@
@@ -71996,9 +71996,9 @@
 1 FAMC @F980@
 1 _DVP a1.b5.c4.d4.e8.f4.
 0 @I5124@ INDI
-1 NAME Christina Wilhelmina /(Onbekend)/
+1 NAME Christina Wilhelmina //
 2 GIVN Christina Wilhelmina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I1421@ INDI
 1 NAME Johanna Magdalena /De Witt/
@@ -72134,9 +72134,9 @@
 1 FAMS @F4516@
 1 _DVP a1.b6.c1.d3.e5.f11.g3.h2.
 0 @I6454@ INDI
-1 NAME Mavis Janet /(Onbekend)/
+1 NAME Mavis Janet //
 2 GIVN Mavis Janet
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1491@
 0 @I6587@ INDI
@@ -72352,9 +72352,9 @@
 1 SEX F
 1 FAMS @F720@
 0 @I9084@ INDI
-1 NAME Susara Magdalena /(Onbekend)/
+1 NAME Susara Magdalena //
 2 GIVN Susara Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1670@
 0 @I1553@ INDI
@@ -73261,7 +73261,7 @@
 1 _DVP a1.b7.c5.
 0 @I3950@ INDI
 1 NAME  /Roos/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Roos
 1 SEX M
 1 FAMS @F155@
@@ -73637,9 +73637,9 @@
 2 CONC 900 saam met Genl Prinsloo se magte naby Fouriesburg krygsgevangene geneem en te Ceylon aangehou.
 1 _DVP a1.b1.c3.d8.e7.
 0 @I3953@ INDI
-1 NAME Hester Hendrina /(Onbekend)/
+1 NAME Hester Hendrina //
 2 GIVN Hester Hendrina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I5251@ INDI
 1 NAME Jacobus Andrias Petrus /Henning/
@@ -74179,7 +74179,7 @@
 1 _DVP a1.b6.c1.d3.e4.f2.g4.h4.i3.
 0 @I12204@ INDI
 1 NAME  /Willoughby/
-2 GIVN Onbekend
+2 GIVN 
 2 SURN Willoughby
 1 SEX M
 1 FAMS @F4562@
@@ -74274,7 +74274,7 @@
 1 FAMS @F1895@
 0 @I12203@ INDI
 1 NAME  /Fourie/
-2 GIVN Onbekend
+2 GIVN 
 2 SURN Fourie
 1 SEX M
 1 FAMS @F4561@
@@ -74969,9 +74969,9 @@
 1 FAMS @F2971@
 1 _DVP a1.b9.c1.d2.e7.f1.g2.
 0 @I7657@ INDI
-1 NAME Annie Louisa /(Onbekend)/
+1 NAME Annie Louisa //
 2 GIVN Annie Louisa
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F426@
 0 @I5129@ INDI
@@ -75685,7 +75685,7 @@
 1 _DVP a1.b5.c2.d13.e9.f2.
 0 @I3968@ INDI
 1 NAME  /Campbell/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Campbell
 1 SEX M
 1 FAMS @F32@
@@ -75746,7 +75746,7 @@
 1 _DVP a1.b1.c3.d4.e8.f3.g8.
 0 @I8994@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F22@
@@ -76362,7 +76362,7 @@
 1 _DVP a1.b1.c6.d1.e2.f2.g4.h1.i2.
 0 @I5266@ INDI
 1 NAME  /Botes/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botes
 1 SEX M
 1 FAMS @F17@
@@ -76748,7 +76748,7 @@
 1 FAMS @F504@
 0 @I3839@ INDI
 1 NAME  /Fourie/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Fourie
 1 SEX M
 1 FAMS @F60@
@@ -77347,7 +77347,7 @@
 1 _DVP a1.b6.c3.d2.e6.f3.g2.
 0 @I8996@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F23@
@@ -77415,7 +77415,7 @@
 1 FAMS @F3882@
 0 @I7798@ INDI
 1 NAME  /Coetzee/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Coetzee
 1 SEX M
 0 @I5004@ INDI
@@ -78675,7 +78675,7 @@
 1 FAMS @F2739@
 0 @I3965@ INDI
 1 NAME  /Grobler/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Grobler
 1 SEX M
 1 FAMS @F65@
@@ -79470,7 +79470,7 @@
 1 _DVP a1.b9.c1.d4.e5.f3.
 0 @I5225@ INDI
 1 NAME  /Engelbrecht/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Engelbrecht
 1 SEX M
 1 FAMS @F54@
@@ -79483,7 +79483,7 @@
 1 _DVP a1.b5.c5.d4.e3.f2.
 0 @I7755@ INDI
 1 NAME  /De Beer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN De Beer
 1 SEX M
 1 FAMS @F44@
@@ -79653,7 +79653,7 @@
 1 FAMS @F641@
 0 @I5357@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Henning
 1 SEX F
 1 FAMC @F387@
@@ -79971,9 +79971,9 @@
 3 CONC tjie Aletta van der Merwe (gebore Smith)
 1 _DVP a1.b1.c6.d14.e3.
 0 @I8952@ INDI
-1 NAME Louisa Jacoba /(Onbekend)/
+1 NAME Louisa Jacoba //
 2 GIVN Louisa Jacoba
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1156@
 0 @I792@ INDI
@@ -79996,7 +79996,7 @@
 1 FAMS @F508@
 0 @I5359@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)(Tom)
+2 GIVN (Tom)
 2 SURN Henning
 1 SEX M
 1 FAMC @F387@
@@ -80276,9 +80276,9 @@
 1 FAMS @F879@
 1 _DVP a1.b7.c1.d10.e4.f1.g1.
 0 @I6429@ INDI
-1 NAME Anna Cecilia /(Onbekend)/
+1 NAME Anna Cecilia //
 2 GIVN Anna Cecilia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F375@
 0 @I662@ INDI
@@ -83404,7 +83404,7 @@
 1 _DVP a1.b9.c1.d2.e1.f5.g1.
 0 @I5360@ INDI
 1 NAME  /Lourens/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Lourens
 1 SEX M
 1 FAMS @F72@
@@ -83635,9 +83635,9 @@
 2 DATE 14 JAN 2000
 1 _DVP 1.
 0 @I7509@ INDI
-1 NAME Hester Elizabeth /(Onbekend)/
+1 NAME Hester Elizabeth //
 2 GIVN Hester Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1008@
 0 @I8707@ INDI
@@ -84510,9 +84510,9 @@
 1 FAMS @F2028@
 1 _DVP a3.b5.c2.
 0 @I5103@ INDI
-1 NAME Martha Francina /(Onbekend)/
+1 NAME Martha Francina //
 2 GIVN Martha Francina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I9197@ INDI
 1 NAME Jan Louis /Henning/
@@ -84869,15 +84869,15 @@
 2 SURN Botha
 1 SEX M
 0 @I9901@ INDI
-1 NAME  /(Onbekend)/
-2 GIVN Onbekend
-2 SURN (Onbekend)
+1 NAME  //
+2 GIVN 
+2 SURN 
 1 SEX F
 1 FAMS @F4386@
 0 @I5108@ INDI
-1 NAME Anna Maria /(Onbekend)/
+1 NAME Anna Maria //
 2 GIVN Anna Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F400@
 0 @I7638@ INDI
@@ -85415,9 +85415,9 @@
 2 CONC -1960 en Lydia Henning *12-6-1962.
 1 _DVP a1.b6.c1.d3.e5.f11.g1.
 0 @I8968@ INDI
-1 NAME Gertruida Johanna Margaretha /(Onbekend)/
+1 NAME Gertruida Johanna Margaretha //
 2 GIVN Gertruida Johanna Margaretha
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F346@
 0 @I542@ INDI
@@ -86138,9 +86138,9 @@
 2 PLAC Somerset
 1 FAMS @F4656@
 0 @I3812@ INDI
-1 NAME Isabel Aletta /(Onbekend)/
+1 NAME Isabel Aletta //
 2 GIVN Isabel Aletta
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I1544@ INDI
 1 NAME Petronella Catharina /Van Den Berg/
@@ -86841,7 +86841,7 @@
 1 FAMS @F1113@
 0 @I3948@ INDI
 1 NAME  /Opperman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Opperman
 1 SEX M
 1 FAMS @F132@
@@ -86878,9 +86878,9 @@
 1 FAMC @F2675@
 1 _DVP a1.b6.c3.d3.e4.f2.g5.h2.
 0 @I8974@ INDI
-1 NAME Elizabeth Christina Magrita /(Onbekend)/
+1 NAME Elizabeth Christina Magrita //
 2 GIVN Elizabeth Christina Magrita
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F738@
 0 @I6442@ INDI
@@ -87135,7 +87135,7 @@
 1 SEX M
 0 @I3949@ INDI
 1 NAME  /Potgieter/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Potgieter
 1 SEX M
 1 FAMS @F143@
@@ -88401,7 +88401,7 @@
 1 _DVP a1.b6.c1.d5.e1.f2.g1.h7.i2.
 0 @I5372@ INDI
 1 NAME  /Henning/
-2 GIVN (Onbekend)(Willem)
+2 GIVN (Willem)
 2 SURN Henning
 1 SEX M
 1 FAMC @F387@
@@ -88877,7 +88877,7 @@
 1 _DVP a2.b1.c2.d5.
 0 @I7737@ INDI
 1 NAME  /Pieterse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pieterse
 1 SEX M
 1 FAMS @F140@
@@ -89161,7 +89161,7 @@
 1 FAMS @F3717@
 0 @I8939@ INDI
 1 NAME  /Benade/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Benade
 1 SEX M
 1 FAMS @F7@
@@ -89318,9 +89318,9 @@
 2 CONC a Technicon in ND Veeproduksie. Hy was 'n goeie rugbyspeler
 1 _DVP a1.b10.c6.d1.e1.f2.g3.
 0 @I2705@ INDI
-1 NAME Hester Maria Elizabeth /(Onbekend)/
+1 NAME Hester Maria Elizabeth //
 2 GIVN Hester Maria Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1021@
 0 @I2838@ INDI
@@ -89653,7 +89653,7 @@
 1 FAMS @F3792@
 0 @I7732@ INDI
 1 NAME  /Booysens/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Booysens
 1 SEX M
 1 FAMS @F16@
@@ -89748,7 +89748,7 @@
 1 FAMS @F698@
 0 @I5203@ INDI
 1 NAME  /Hollander/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Hollander
 1 SEX M
 1 FAMS @F75@
@@ -90084,13 +90084,13 @@
 1 _DVP a1.b7.c2.d15.e2.f2.g3.
 0 @I7735@ INDI
 1 NAME  /Shepperd/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Shepperd
 1 SEX M
 1 FAMS @F163@
 0 @I7868@ INDI
 1 NAME  /Van Niekerk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Niekerk
 1 SEX M
 1 FAMS @F200@
@@ -90110,7 +90110,7 @@
 1 _DVP a1.b10.c6.d1.e1.f3.
 0 @I5205@ INDI
 1 NAME  /Schoeman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Schoeman
 1 SEX M
 1 FAMS @F160@
@@ -90369,7 +90369,7 @@
 1 FAMS @F3100@
 0 @I5204@ INDI
 1 NAME  /Fourie/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Fourie
 1 SEX M
 1 FAMC @F913@
@@ -90377,7 +90377,7 @@
 1 NOTE Gebore 4 Nov
 0 @I7736@ INDI
 1 NAME  /De Kock/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN De Kock
 1 SEX M
 1 FAMS @F45@
@@ -90527,7 +90527,7 @@
 1 FAMS @F2282@
 0 @I7733@ INDI
 1 NAME  /Diedericks/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Diedericks
 1 SEX M
 1 FAMS @F48@
@@ -90696,7 +90696,7 @@
 1 _DVP a1.b5.c5.d4.e4.
 0 @I8099@ INDI
 1 NAME  /Nel/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Nel
 1 SEX M
 1 FAMS @F125@
@@ -90708,13 +90708,13 @@
 1 FAMS @F1056@
 0 @I5206@ INDI
 1 NAME  /Van Niekerk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Niekerk
 1 SEX M
 1 FAMS @F198@
 0 @I7734@ INDI
 1 NAME  /Horn/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Horn
 1 SEX M
 1 FAMS @F76@
@@ -92199,9 +92199,9 @@
 1 NOTE Hy was die opsigter van die ou begraafplaas op Vereeniging.
 1 _DVP a1.b5.c4.d4.e7.f4.
 0 @I5344@ INDI
-1 NAME Elizabeth Sophia /(Onbekend)/
+1 NAME Elizabeth Sophia //
 2 GIVN Elizabeth Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F749@
 0 @I5477@ INDI
@@ -94253,14 +94253,14 @@
 1 _DVP a1.b6.c3.d12.
 0 @I8941@ INDI
 1 NAME  /Marais/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marais
 1 SEX M
 1 FAMS @F113@
 0 @I6544@ INDI
-1 NAME Hester Magritha /(Onbekend)/
+1 NAME Hester Magritha //
 2 GIVN Hester Magritha
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F341@
 0 @I4014@ INDI
@@ -94500,9 +94500,9 @@
 1 FAMC @F1925@
 1 _DVP a3.b10.c3.
 0 @I5345@ INDI
-1 NAME Adamina Martina /(Onbekend)/
+1 NAME Adamina Martina //
 2 GIVN Adamina Martina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F250@
 0 @I5212@ INDI
@@ -94785,7 +94785,7 @@
 1 _DVP a1.b6.c3.d2.e4.
 0 @I8945@ INDI
 1 NAME  /Janse Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Janse Van Rensburg
 1 SEX M
 1 FAMS @F81@
@@ -95093,7 +95093,7 @@
 1 _DVP a1.b6.c3.d2.e6.
 0 @I8943@ INDI
 1 NAME  /Van Vuuren/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Vuuren
 1 SEX M
 1 FAMS @F211@
@@ -95502,7 +95502,7 @@
 1 FAMS @F3249@
 0 @I5483@ INDI
 1 NAME  /Klopper/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Klopper
 1 SEX M
 1 FAMS @F93@
@@ -95723,7 +95723,7 @@
 1 _DVP a1.b5.c1.d5.e6.f3.g3.h7.i3.
 0 @I5482@ INDI
 1 NAME  /Maree/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Maree
 1 SEX M
 1 FAMS @F115@
@@ -96060,7 +96060,7 @@
 1 _DVP a1.b1.c3.d10.e10.f4.g2.h2.
 0 @I4154@ INDI
 1 NAME  /Claassens/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Claassens
 1 SEX M
 1 FAMS @F34@
@@ -96291,7 +96291,7 @@
 1 _DVP a1.b6.c3.d3.e4.f2.g4.h1.i2.
 0 @I5354@ INDI
 1 NAME  /Rathbone/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Rathbone
 1 SEX M
 1 FAMS @F150@
@@ -96378,7 +96378,7 @@
 1 FAMS @F1860@
 0 @I9180@ INDI
 1 NAME  /Jacobs/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jacobs
 1 SEX M
 1 FAMS @F80@
@@ -96573,7 +96573,7 @@
 1 _DVP a1.b6.c3.d3.e4.f2.g4.h1.i1.
 0 @I5353@ INDI
 1 NAME  /Rathbone/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Rathbone
 1 SEX M
 1 FAMS @F149@
@@ -96868,9 +96868,9 @@
 1 SEX F
 1 FAMS @F387@
 0 @I1782@ INDI
-1 NAME Jacoba Johanna /(Onbekend)/
+1 NAME Jacoba Johanna //
 2 GIVN Jacoba Johanna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1079@
 0 @I5223@ INDI
@@ -97683,7 +97683,7 @@
 1 _DVP a1.b9.c3.d3.e1.
 0 @I5480@ INDI
 1 NAME  /Pelser/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pelser
 1 SEX M
 1 FAMS @F136@
@@ -97819,7 +97819,7 @@
 1 NOTE b10.c1.d2.e6.f5. in Steenkamp geslagsregister
 0 @I5481@ INDI
 1 NAME  /Maree/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Maree
 1 SEX M
 1 FAMS @F114@
@@ -98118,7 +98118,7 @@
 1 FAMS @F1474@
 0 @I7715@ INDI
 1 NAME  /Jonker/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jonker
 1 SEX M
 1 FAMS @F86@
@@ -98267,7 +98267,7 @@
 1 FAMS @F868@
 0 @I7716@ INDI
 1 NAME  /Loots/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Loots
 1 SEX M
 1 FAMS @F103@
@@ -99272,7 +99272,7 @@
 1 _DVP a1.b1.c8.d20.e3.f2.
 0 @I6776@ INDI
 1 NAME  /Jones/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Jones
 1 SEX M
 1 FAMS @F84@
@@ -99414,7 +99414,7 @@
 1 FAMS @F1029@
 0 @I6775@ INDI
 1 NAME  /Goch/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Goch
 1 SEX M
 1 FAMS @F64@
@@ -99633,7 +99633,7 @@
 1 _DVP a1.b5.c4.d7.e1.f2.
 0 @I7711@ INDI
 1 NAME  /Nortje/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Nortje
 1 SEX M
 1 FAMS @F127@
@@ -99886,7 +99886,7 @@
 1 FAMS @F3869@
 0 @I7712@ INDI
 1 NAME  /Smit/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Smit
 1 SEX M
 1 FAMS @F164@
@@ -100041,7 +100041,7 @@
 1 NOTE Sterf as gevolg van Asma
 0 @I5316@ INDI
 1 NAME  /Engle/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Engle
 1 SEX M
 1 FAMS @F55@
@@ -100252,7 +100252,7 @@
 1 FAMS @F3886@
 0 @I7710@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F19@
@@ -100282,7 +100282,7 @@
 1 FAMS @F2334@
 0 @I11087@ INDI
 1 NAME  /Bell/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Bell
 1 SEX M
 1 FAMS @F6@
@@ -101957,7 +101957,7 @@
 1 FAMS @F4476@
 0 @I12026@ INDI
 1 NAME  /Smith/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Smith
 1 SEX M
 1 FAMS @F4506@
@@ -102844,13 +102844,13 @@
 1 _DVP a1.b7.c2.d4.e1.f2.g1.h1.
 0 @I7726@ INDI
 1 NAME  /Krause/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Krause
 1 SEX M
 1 FAMS @F97@
 0 @I7859@ INDI
 1 NAME  /Stolz/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Stolz
 1 SEX M
 1 FAMS @F170@
@@ -103052,7 +103052,7 @@
 1 _DVP a1.b7.c1.d10.e3.f6.
 0 @I9026@ INDI
 1 NAME  /Van Staden/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Staden
 1 SEX M
 0 @I634@ INDI
@@ -103081,7 +103081,7 @@
 1 FAMS @F3081@
 0 @I7729@ INDI
 1 NAME  /Smith/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Smith
 1 SEX M
 1 FAMS @F166@
@@ -103423,7 +103423,7 @@
 1 FAMC @F4339@
 0 @I7720@ INDI
 1 NAME  /Vos/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Vos
 1 SEX M
 1 FAMS @F221@
@@ -103768,7 +103768,7 @@
 1 FAMC @F4317@
 0 @I7723@ INDI
 1 NAME  /Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rensburg
 1 SEX M
 1 FAMS @F204@
@@ -103971,7 +103971,7 @@
 1 FAMS @F904@
 0 @I7724@ INDI
 1 NAME  /Human/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Human
 1 SEX M
 1 FAMS @F78@
@@ -104290,7 +104290,7 @@
 1 FAMS @F4317@
 0 @I9284@ INDI
 1 NAME  /Van Der Merwe/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Merwe
 1 SEX M
 1 FAMS @F191@
@@ -104524,7 +104524,7 @@
 1 FAMS @F869@
 0 @I5590@ INDI
 1 NAME  /Pitout/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pitout
 1 SEX M
 1 FAMS @F141@
@@ -104607,7 +104607,7 @@
 1 FAMC @F1976@
 0 @I5591@ INDI
 1 NAME  /Mostert/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Mostert
 1 SEX M
 1 FAMS @F123@
@@ -106349,7 +106349,7 @@
 1 _DVP a1.b1.c3.d10.e10.f3.g1.h2.
 0 @I11917@ INDI
 1 NAME  /Binneman/
-2 GIVN Onbekend
+2 GIVN 
 2 SURN Binneman
 1 SEX M
 0 @I52@ INDI
@@ -106415,9 +106415,9 @@
 1 FAMC @F2347@
 1 FAMS @F2334@
 0 @I2702@ INDI
-1 NAME Maria Marthina /(Onbekend)/
+1 NAME Maria Marthina //
 2 GIVN Maria Marthina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1438@
 0 @I55@ INDI
@@ -106907,7 +106907,7 @@
 1 _DVP a1.b5.c1.d3.e1.f1.g3.h1.
 0 @I11918@ INDI
 1 NAME  /Binneman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Binneman
 1 SEX M
 1 FAMS @F4473@
@@ -107471,7 +107471,7 @@
 1 SEX M
 0 @I7825@ INDI
 1 NAME  /Clack/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Clack
 1 SEX M
 1 FAMS @F35@
@@ -107938,7 +107938,7 @@
 1 SEX M
 0 @I7828@ INDI
 1 NAME  /Fourie/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Fourie
 1 SEX M
 1 FAMS @F62@
@@ -107962,7 +107962,7 @@
 1 FAMS @F4719@
 0 @I10128@ INDI
 1 NAME  /Stoffberg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Stoffberg
 1 SEX M
 0 @I12525@ INDI
@@ -108043,7 +108043,7 @@
 1 SEX M
 0 @I7829@ INDI
 1 NAME  /Schaap/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Schaap
 1 SEX M
 1 FAMS @F159@
@@ -108171,7 +108171,7 @@
 1 FAMS @F655@
 0 @I7826@ INDI
 1 NAME  /Heyman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Heyman
 1 SEX M
 1 FAMS @F73@
@@ -108291,7 +108291,7 @@
 1 _DVP a1.b1.c3.d8.e1.f3.g2.h2.i3.
 0 @I7827@ INDI
 1 NAME  /Kasdorf/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kasdorf
 1 SEX M
 1 FAMS @F87@
@@ -108944,7 +108944,7 @@
 1 FAMS @F3274@
 0 @I4224@ INDI
 1 NAME  /Van Rensburg/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Rensburg
 1 SEX M
 1 FAMS @F202@
@@ -109106,7 +109106,7 @@
 1 _DVP a1.b5.c1.d3.e10.
 0 @I4225@ INDI
 1 NAME  /Keyser/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Keyser
 1 SEX M
 1 FAMS @F90@
@@ -109425,7 +109425,7 @@
 1 SEX M
 0 @I8183@ INDI
 1 NAME  /Combrinck/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Combrinck
 1 SEX M
 1 FAMS @F41@
@@ -110094,9 +110094,9 @@
 1 FAMC @F2050@
 1 _DVP a1.b5.c1.d3.e1.f3.
 0 @I6760@ INDI
-1 NAME Johanna Maria /(Onbekend)/
+1 NAME Johanna Maria //
 2 GIVN Johanna Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F960@
 0 @I4496@ INDI
@@ -111316,9 +111316,9 @@
 1 FAMC @F4187@
 1 _DVP a1.b1.c6.d4.e6.f1.g1.h2.i1.
 0 @I1731@ INDI
-1 NAME Anna Catharina /(Onbekend)/
+1 NAME Anna Catharina //
 2 GIVN Anna Catharina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F366@
 0 @I1864@ INDI
@@ -111390,9 +111390,9 @@
 1 FAMC @F4719@
 1 _DVP a1.b1.c6.d6.e8.f3.g2.h3.i2.
 0 @I10396@ INDI
-1 NAME Cornelia Petronella /(Onbekend)/
+1 NAME Cornelia Petronella //
 2 GIVN Cornelia Petronella
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F609@
 0 @I1730@ INDI
@@ -111723,7 +111723,7 @@
 1 FAMS @F4136@
 0 @I9399@ INDI
 1 NAME  /Van Staden/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Staden
 1 SEX M
 1 FAMS @F209@
@@ -112041,7 +112041,7 @@
 1 FAMS @F522@
 0 @I7837@ INDI
 1 NAME  /Visser/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Visser
 1 SEX M
 1 FAMS @F218@
@@ -112386,7 +112386,7 @@
 1 FAMS @F614@
 0 @I9398@ INDI
 1 NAME  /Prinsloo/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Prinsloo
 1 SEX M
 1 FAMS @F147@
@@ -112864,9 +112864,9 @@
 1 SEX M
 1 FAMS @F270@
 0 @I5309@ INDI
-1 NAME Gertruida Susanna /(Onbekend)/
+1 NAME Gertruida Susanna //
 2 GIVN Gertruida Susanna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I2804@ INDI
 1 NAME Jan Hendrik Rudolf /Henning/
@@ -113056,7 +113056,7 @@
 2 TITL C119. Troufoto van b6.c3.d2.e6.f1.g2.h1.i2. Anelmâe Henning *28-3-1988 en Hendrik (Hennie) Welman *3-6-1987
 0 @I7838@ INDI
 1 NAME  /Scholey/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Scholey
 1 SEX M
 1 FAMS @F161@
@@ -113842,7 +113842,7 @@
 1 _DVP a1.b5.c5.d8.e2.f6.g1.h3.
 0 @I5566@ INDI
 1 NAME  /Croukamp/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Croukamp
 1 SEX M
 1 FAMS @F43@
@@ -114315,7 +114315,7 @@
 1 _DVP a1.b6.c3.d3.e5.f2.
 0 @I8197@ INDI
 1 NAME  /Du Plessis/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Du Plessis
 1 SEX M
 1 FAMS @F50@
@@ -114536,7 +114536,7 @@
 1 _DVP a1.b5.c5.d4.e4.f5.g4.h1.
 0 @I7830@ INDI
 1 NAME  /Du Preez/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Du Preez
 1 SEX M
 1 FAMS @F51@
@@ -115092,9 +115092,9 @@
 2 PLAC Bedfordview
 1 FAMS @F3736@
 0 @I5572@ INDI
-1 NAME Susarah Johanna Elizabeth /(Onbekend)/
+1 NAME Susarah Johanna Elizabeth //
 2 GIVN Susarah Johanna Elizabeth
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1678@
 0 @I3042@ INDI
@@ -115893,7 +115893,7 @@
 2 TITL b1.c3.d10.e10.f2.g1. Jacobus Wessel Henning * 1-3-1932 en sy vrou Hendrina (gebore Kruger) * 6-7-1931
 0 @I7709@ INDI
 1 NAME  /Marais/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marais
 1 SEX M
 1 FAMS @F112@
@@ -116774,7 +116774,7 @@
 1 FAMS @F4159@
 0 @I5536@ INDI
 1 NAME  /Oelofse/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Oelofse
 1 SEX M
 1 FAMS @F129@
@@ -116811,7 +116811,7 @@
 1 _DVP a1.b1.c3.d10.e10.f1.g2.
 0 @I8298@ INDI
 1 NAME  /Smith/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Smith
 1 SEX M
 1 FAMS @F167@
@@ -117129,7 +117129,7 @@
 1 FAMS @F3391@
 0 @I5535@ INDI
 1 NAME  /Burger/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Burger
 1 SEX M
 1 FAMS @F27@
@@ -117303,7 +117303,7 @@
 1 FAMS @F1697@
 0 @I4339@ INDI
 1 NAME  /Anderson/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Anderson
 1 SEX M
 1 FAMS @F3@
@@ -117571,7 +117571,7 @@
 1 FAMS @F1415@
 0 @I6735@ INDI
 1 NAME  /Anderson/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Anderson
 1 SEX M
 1 FAMS @F4@
@@ -117680,7 +117680,7 @@
 1 _DVP a1.b1.c3.d10.e10.f6.
 0 @I5537@ INDI
 1 NAME  /Van Der Westhuizen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Der Westhuizen
 1 SEX M
 1 FAMS @F194@
@@ -117817,7 +117817,7 @@
 1 _DVP 1.
 0 @I6738@ INDI
 1 NAME  /Olivier/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Olivier
 1 SEX M
 1 FAMS @F130@
@@ -117921,7 +117921,7 @@
 1 NOTE Sy en Willem Frederick Henning was nie getroud nie
 0 @I8036@ INDI
 1 NAME  /Smit/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Smit
 1 SEX M
 1 FAMS @F165@
@@ -117991,9 +117991,9 @@
 1 SEX F
 1 FAMS @F4674@
 0 @I10019@ INDI
-1 NAME Heather /(Onbekend)/
+1 NAME Heather //
 2 GIVN Heather
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F930@
 0 @I1836@ INDI
@@ -118085,7 +118085,7 @@
 1 _DVP a1.b1.c8.d14.e2.f1.
 0 @I9102@ INDI
 1 NAME  /Visser/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Visser
 1 SEX M
 1 FAMS @F219@
@@ -118591,7 +118591,7 @@
 1 _DVP a1.b9.c2.d1.e2.f2.g2.
 0 @I6739@ INDI
 1 NAME  /Trichardt/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Trichardt
 1 SEX M
 1 FAMS @F182@
@@ -118930,7 +118930,7 @@
 1 FAMS @F4642@
 0 @I6991@ INDI
 1 NAME  /Mc Quirk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Mc Quirk
 1 SEX M
 1 FAMS @F121@
@@ -119317,7 +119317,7 @@
 1 _DVP a1.b1.c3.d11.e4.
 0 @I5662@ INDI
 1 NAME  /Maartins/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Maartins
 1 SEX F
 1 FAMS @F106@
@@ -119364,7 +119364,7 @@
 1 FAMS @F2686@
 0 @I8160@ INDI
 1 NAME  /Rossouw/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Rossouw
 1 SEX M
 1 FAMS @F156@
@@ -119623,7 +119623,7 @@
 1 _DVP a1.b6.c4.d1.e5.f7.g3.h6.i2.
 0 @I8294@ INDI
 1 NAME  /Cloete/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Cloete
 1 SEX M
 1 FAMS @F36@
@@ -119925,9 +119925,9 @@
 2 DATE 1822
 1 FAMS @F1902@
 0 @I1709@ INDI
-1 NAME Estell /(Onbekend)/
+1 NAME Estell //
 2 GIVN Estell
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F795@
 0 @I6864@ INDI
@@ -120653,7 +120653,7 @@
 3 CONC onathan (kleinseuns)
 0 @I7809@ INDI
 1 NAME  /Wilke/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Wilke
 1 SEX M
 1 FAMS @F225@
@@ -120796,7 +120796,7 @@
 3 CONT met hul drie dogters, Ashleigh, Lisa en Natala
 0 @I6608@ INDI
 1 NAME  /Pittroff/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pittroff
 1 SEX M
 1 FAMS @F142@
@@ -121288,9 +121288,9 @@
 2 DATE 2 SEP 1992
 1 FAMC @F317@
 0 @I10289@ INDI
-1 NAME Marie /(Onbekend)/
+1 NAME Marie //
 2 GIVN Marie
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1446@
 0 @I1841@ INDI
@@ -122430,7 +122430,7 @@
 1 _DVP a1.b6.c3.d2.e8.f1.g2.h1.
 0 @I7810@ INDI
 1 NAME  /Van Niekerk/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Niekerk
 1 SEX M
 1 FAMS @F199@
@@ -122542,7 +122542,7 @@
 1 _DVP a1.b9.c1.d2.e7.f4.g1.
 0 @I8175@ INDI
 1 NAME  /Heyns/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Heyns
 1 SEX M
 1 FAMS @F74@
@@ -123308,9 +123308,9 @@
 2 PLAC Pretoria
 1 FAMC @F4632@
 0 @I6619@ INDI
-1 NAME Catharina Maria /(Onbekend)/
+1 NAME Catharina Maria //
 2 GIVN Catharina Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F516@
 0 @I720@ INDI
@@ -123349,9 +123349,9 @@
 1 SEX M
 1 FAMS @F516@
 0 @I1713@ INDI
-1 NAME Elsie Willemina /(Onbekend)/
+1 NAME Elsie Willemina //
 2 GIVN Elsie Willemina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F768@
 0 @I1846@ INDI
@@ -123861,7 +123861,7 @@
 1 _DVP a1.b1.c3.d12.e9.f4.g1.
 0 @I4477@ INDI
 1 NAME  /Pienaar/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pienaar
 1 SEX M
 1 FAMS @F137@
@@ -123877,7 +123877,7 @@
 1 _DVP a1.b6.c4.d1.e5.f4.g3.h3.
 0 @I4344@ INDI
 1 NAME  /Terblanche/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Terblanche
 1 SEX M
 1 FAMS @F179@
@@ -123987,7 +123987,7 @@
 1 FAMS @F2626@
 0 @I4345@ INDI
 1 NAME  /Calitz/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Calitz
 1 SEX M
 1 FAMS @F30@
@@ -124033,7 +124033,7 @@
 1 _DVP a1.b1.c8.d14.e2.f3.
 0 @I8172@ INDI
 1 NAME  /Botha/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Botha
 1 SEX M
 1 FAMS @F20@
@@ -124124,7 +124124,7 @@
 2 TITL Brynjar - en Olaug  Fowels-Landmark op hul huweliksdag.
 0 @I4479@ INDI
 1 NAME  /Uys/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Uys
 1 SEX M
 1 FAMS @F183@
@@ -124579,7 +124579,7 @@
 1 FAMS @F3751@
 0 @I4480@ INDI
 1 NAME  /Van Staden/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Staden
 1 SEX M
 1 FAMS @F208@
@@ -124955,7 +124955,7 @@
 1 FAMC @F1315@
 0 @I9117@ INDI
 1 NAME  /Malan/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Malan
 1 SEX M
 1 FAMS @F107@
@@ -125678,7 +125678,7 @@
 1 FAMS @F2293@
 0 @I9119@ INDI
 1 NAME  /Theron/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Theron
 1 SEX M
 1 FAMS @F181@
@@ -126093,7 +126093,7 @@
 1 FAMS @F1548@
 0 @I4314@ INDI
 1 NAME  /Oosthuysen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Oosthuysen
 1 SEX M
 1 FAMS @F131@
@@ -127279,9 +127279,9 @@
 1 NOTE Voorsaat van Eldene Cathrion Henning (gebore Skinner) *26-5-1972, V/v b7.c8.d8.e3.f5.g1. Stephanus Rudolf Henning *17-9-1
 2 CONC 972
 0 @I8142@ INDI
-1 NAME Anna /(Onbekend)/
+1 NAME Anna //
 2 GIVN Anna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I2043@ INDI
 1 NAME Philippus Johannes Petrus /Dreijer/
@@ -127865,7 +127865,7 @@
 1 _DVP a1.b5.c1.d3.e10.f6.
 0 @I8270@ INDI
 1 NAME  /Erasmus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Erasmus
 1 SEX M
 0 @I4310@ INDI
@@ -127877,9 +127877,9 @@
 2 DATE 12 OCT 1962
 1 FAMS @F751@
 0 @I4443@ INDI
-1 NAME Alexina /(Onbekend)/
+1 NAME Alexina //
 2 GIVN Alexina
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I6971@ INDI
 1 NAME Isabella Johanna Jacoba /Van Tonder/
@@ -127946,7 +127946,7 @@
 1 _DVP a1.b5.c5.d7.e7.f1.
 0 @I4577@ INDI
 1 NAME  /Kruger/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Kruger
 1 SEX M
 1 FAMS @F98@
@@ -128452,9 +128452,9 @@
 2 PLAC Luanshya
 1 FAMS @F3911@
 0 @I3384@ INDI
-1 NAME Lukas Danièel /(Onbekend)/
+1 NAME Lukas Danièel //
 2 GIVN Lukas Danièel
-2 SURN (Onbekend)
+2 SURN 
 1 SEX M
 1 BIRT
 2 DATE 9 JAN 1940
@@ -128471,9 +128471,9 @@
 1 FAMS @F3607@
 1 _DVP a1.b7.c2.d4.e4.f7.g1.
 0 @I9214@ INDI
-1 NAME Mein /(Onbekend)/
+1 NAME Mein //
 2 GIVN Mein
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F714@
 0 @I9347@ INDI
@@ -128775,7 +128775,7 @@
 1 FAMS @F4152@
 0 @I10174@ INDI
 1 NAME  /Marx/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marx
 1 SEX M
 1 FAMS @F117@
@@ -128794,9 +128794,9 @@
 2 DATE 12 JUN 1996
 1 FAMC @F4595@
 0 @I7915@ INDI
-1 NAME Anna Maria /(Onbekend)/
+1 NAME Anna Maria //
 2 GIVN Anna Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I8147@ INDI
 1 NAME Carl /De Kock/
@@ -129174,7 +129174,7 @@
 3 CONC omâe
 0 @I9216@ INDI
 1 NAME  /Wolmarans/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Wolmarans
 1 SEX M
 0 @I9349@ INDI
@@ -129497,7 +129497,7 @@
 1 _DVP a1.b5.c5.d5.e3.f1.g2.h3.i1.
 0 @I8286@ INDI
 1 NAME  /Zietsman/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Zietsman
 1 SEX M
 0 @I3127@ INDI
@@ -129864,7 +129864,7 @@
 1 NOTE Sy het onder haar aangenome van, Niddrie grootgeword
 0 @I8150@ INDI
 1 NAME  /Cole/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Cole
 1 SEX M
 1 FAMS @F40@
@@ -130412,9 +130412,9 @@
 1 FAMS @F2563@
 1 _DVP a1.b5.c5.d5.e5.f1.
 0 @I12427@ INDI
-1 NAME Johanna Magdalena /(Onbekend)/
+1 NAME Johanna Magdalena //
 2 GIVN Johanna Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4644@
 0 @I2188@ INDI
@@ -130446,7 +130446,7 @@
 1 _DVP a1.b9.c2.d1.e2.
 0 @I6728@ INDI
 1 NAME  /Killian/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Killian
 1 SEX M
 1 FAMS @F91@
@@ -130599,7 +130599,7 @@
 1 FAMC @F1728@
 0 @I6727@ INDI
 1 NAME  /Heffer/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Heffer
 1 SEX M
 1 FAMS @F71@
@@ -131316,7 +131316,7 @@
 1 _DVP a1.b6.c4.d1.e5.f7.g3.h4.
 0 @I4589@ INDI
 1 NAME  /Dippenaar/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Dippenaar
 1 SEX M
 1 FAMS @F49@
@@ -131519,9 +131519,9 @@
 1 FAMC @F3791@
 1 _DVP a1.b5.c5.d5.e3.f1.g2.h2.i2.
 0 @I7083@ INDI
-1 NAME Christina Johanna /(Onbekend)/
+1 NAME Christina Johanna //
 2 GIVN Christina Johanna
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F575@
 0 @I927@ INDI
@@ -131626,9 +131626,9 @@
 1 FAMS @F2925@
 1 _DVP a1.b7.c2.d4.e6.f1.g2.
 0 @I3392@ INDI
-1 NAME Pieter Jacobus Willem /(Onbekend)/
+1 NAME Pieter Jacobus Willem //
 2 GIVN Pieter Jacobus Willem
-2 SURN (Onbekend)
+2 SURN 
 1 SEX M
 1 BIRT
 2 DATE 18 OCT 1952
@@ -131780,7 +131780,7 @@
 1 FAMS @F3716@
 0 @I6990@ INDI
 1 NAME  /Vorster/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Vorster
 1 SEX M
 1 FAMS @F220@
@@ -132334,7 +132334,7 @@
 1 FAMC @F4729@
 0 @I8159@ INDI
 1 NAME  /Coetzee/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Coetzee
 1 SEX M
 1 FAMS @F38@
@@ -132740,9 +132740,9 @@
 2 PLAC Pretoria
 1 FAMC @F3478@
 0 @I12431@ INDI
-1 NAME Mary-Ann /(Onbekend)/
+1 NAME Mary-Ann //
 2 GIVN Mary-Ann
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4645@
 0 @I1961@ INDI
@@ -133947,7 +133947,7 @@
 1 FAMC @F3799@
 0 @I8120@ INDI
 1 NAME  /Page/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Page
 1 SEX M
 1 FAMS @F133@
@@ -134178,9 +134178,9 @@
 1 FAMS @F1200@
 1 _DVP a1.b7.c5.d1.e4.f5.g2.
 0 @I8122@ INDI
-1 NAME Francina Magdalena /(Onbekend)/
+1 NAME Francina Magdalena //
 2 GIVN Francina Magdalena
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F792@
 0 @I5757@ INDI
@@ -134546,13 +134546,13 @@
 1 FAMS @F4606@
 0 @I9583@ INDI
 1 NAME  /Benetar/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Benetar
 1 SEX M
 1 FAMS @F8@
 0 @I9450@ INDI
 1 NAME  /Erasmus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Erasmus
 1 SEX M
 1 FAMS @F57@
@@ -134609,9 +134609,9 @@
 1 FAMC @F3535@
 1 _DVP a1.b1.c6.d3.e11.f3.g2.h2.
 0 @I4682@ INDI
-1 NAME Maria Dorothea /(Onbekend)/
+1 NAME Maria Dorothea //
 2 GIVN Maria Dorothea
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 0 @I3351@ INDI
 1 NAME Jacobus Petrus /Henning/
@@ -135130,9 +135130,9 @@
 1 FAMC @F3347@
 1 _DVP a1.b1.c6.d3.e11.f4.g1.h1.
 0 @I7180@ INDI
-1 NAME Heilie Maria /(Onbekend)/
+1 NAME Heilie Maria //
 2 GIVN Heilie Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F932@
 0 @I5751@ INDI
@@ -135430,9 +135430,9 @@
 1 NOTE Beide hulle kinders is jonk oorlede
 1 _DVP a1.b6.c1.d5.e1.f2.g1.h4.
 0 @I10061@ INDI
-1 NAME Linda /(Onbekend)/
+1 NAME Linda //
 2 GIVN Linda
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1354@
 0 @I3492@ INDI
@@ -136076,7 +136076,7 @@
 1 FAMS @F4688@
 0 @I8256@ INDI
 1 NAME  /Van Pletzen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Pletzen
 1 SEX M
 0 @I8123@ INDI
@@ -136410,7 +136410,7 @@
 1 _DVP a1.b7.c1.d10.e4.f1.g3.
 0 @I8129@ INDI
 1 NAME  /Starker/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Starker
 1 SEX M
 0 @I935@ INDI
@@ -137527,13 +137527,13 @@
 1 _DVP a1.b1.c1.d6.e5.
 0 @I5635@ INDI
 1 NAME  /Van Zyl/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Van Zyl
 1 SEX M
 1 FAMS @F212@
 0 @I5502@ INDI
 1 NAME  /Viljoen/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Viljoen
 1 SEX F
 1 FAMS @F217@
@@ -137820,7 +137820,7 @@
 1 _DVP a1.b1.c1.d6.e4.
 0 @I5634@ INDI
 1 NAME  /Langeveldt/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Langeveldt
 1 SEX M
 1 FAMS @F101@
@@ -138186,7 +138186,7 @@
 2 TITL b5.c4.d7.e1.f3.g1.h3. David William Henning * 4-4-1972 en vrou Natasha Diane Sierra * 17-12-1974
 0 @I5504@ INDI
 1 NAME  /Marais/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Marais
 1 SEX F
 1 FAMS @F110@
@@ -138400,7 +138400,7 @@
 1 FAMS @F905@
 0 @I5636@ INDI
 1 NAME  /Wessels/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Wessels
 1 SEX M
 1 FAMS @F223@
@@ -138467,9 +138467,9 @@
 4 CONC Kruger (h3) *17-10-1972 en Izak Jacobus (h2) *26-6-1969
 1 _DVP a1.b9.c1.d4.e5.f3.g1.
 0 @I6704@ INDI
-1 NAME Anna Martha /(Onbekend)/
+1 NAME Anna Martha //
 2 GIVN Anna Martha
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F410@
 0 @I2297@ INDI
@@ -139147,7 +139147,7 @@
 1 FAMS @F2765@
 0 @I4696@ INDI
 1 NAME  /Pretorius/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Pretorius
 1 SEX M
 1 FAMS @F146@
@@ -140003,9 +140003,9 @@
 2 PLAC Moorreesburg
 1 FAMS @F4298@
 0 @I12581@ INDI
-1 NAME Sylvia /(Onbekend)/
+1 NAME Sylvia //
 2 GIVN Sylvia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F4684@
 0 @I10051@ INDI
@@ -140320,9 +140320,9 @@
 1 SEX F
 1 FAMS @F4686@
 0 @I7905@ INDI
-1 NAME Evelyn /(Onbekend)/
+1 NAME Evelyn //
 2 GIVN Evelyn
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F801@
 0 @I10055@ INDI
@@ -140351,9 +140351,9 @@
 2 PLAC Bethal
 1 FAMC @F905@
 0 @I4309@ INDI
-1 NAME Susanna Cornelia /(Onbekend)/
+1 NAME Susanna Cornelia //
 2 GIVN Susanna Cornelia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F1658@
 0 @I1942@ INDI
@@ -140534,9 +140534,9 @@
 1 SEX F
 1 FAMS @F573@
 0 @I8138@ INDI
-1 NAME Martha Sophia /(Onbekend)/
+1 NAME Martha Sophia //
 2 GIVN Martha Sophia
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F861@
 0 @I8005@ INDI
@@ -140867,7 +140867,7 @@
 1 _DVP a1.b1.c6.d3.e7.f8.g4.h1.
 0 @I8269@ INDI
 1 NAME  /Erasmus/
-2 GIVN (Onbekend)
+2 GIVN 
 2 SURN Erasmus
 1 SEX M
 0 @I8136@ INDI
@@ -141215,9 +141215,9 @@
 1 FAMC @F4686@
 1 _DVP a1.b6.c1.d5.e1.f2.g1.h3.i2.
 0 @I9205@ INDI
-1 NAME Martha Maria /(Onbekend)/
+1 NAME Martha Maria //
 2 GIVN Martha Maria
-2 SURN (Onbekend)
+2 SURN 
 1 SEX F
 1 FAMS @F447@
 0 @I11123@ INDI
@@ -141616,7 +141616,7 @@
 1 WIFE @I3635@
 0 @F1388@ FAM
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I3112@
 1 WIFE @I3117@
 1 CHIL @I3118@
@@ -142004,7 +142004,7 @@
 2 DATE 20 APR 1957
 2 PLAC Pretoria
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I4503@
 1 WIFE @I4520@
 1 CHIL @I4522@
@@ -143565,7 +143565,7 @@
 2 DATE 31 JUL 1965
 2 PLAC King Williamstown
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I3802@
 1 WIFE @I3805@
 1 CHIL @I3807@
@@ -144628,7 +144628,7 @@
 2 PLAC Oos-Londen
 1 DIV
 2 DATE 25 APR 1956
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I6160@
 1 WIFE @I6206@
 1 CHIL @I6208@
@@ -146063,7 +146063,7 @@
 2 PLAC Allanridge
 1 DIV
 2 DATE 5 MAR 1976
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I4783@
 1 WIFE @I4791@
 1 CHIL @I4793@
@@ -146445,7 +146445,7 @@
 1 CHIL @I11640@
 0 @F719@ FAM
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I4337@
 1 WIFE @I4340@
 1 CHIL @I4342@
@@ -147979,7 +147979,7 @@
 2 DATE 7 JAN 1983
 2 PLAC Pretoria
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I6349@
 1 WIFE @I6353@
 1 CHIL @I6355@
@@ -150593,7 +150593,7 @@
 2 DATE 10 MAY 1958
 2 PLAC Vereeniging
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I1566@
 1 WIFE @I9278@
 1 CHIL @I10037@
@@ -156543,7 +156543,7 @@
 2 DATE 8 OCT 1960
 2 PLAC Brakpan
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I604@
 1 WIFE @I14@
 1 CHIL @I15@
@@ -158253,7 +158253,7 @@
 2 DATE 9 NOV 1974
 2 PLAC Welkom
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I5517@
 1 WIFE @I5522@
 1 CHIL @I5524@
@@ -158662,7 +158662,7 @@
 2 DATE 28 OCT 1895
 2 PLAC Cradock
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I7587@
 1 WIFE @I7670@
 1 CHIL @I7674@
@@ -158886,7 +158886,7 @@
 2 DATE 2 APR 1983
 2 PLAC Pretoria
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I6598@
 1 WIFE @I6599@
 1 CHIL @I6601@
@@ -162748,7 +162748,7 @@
 2 DATE 10 JUL 1974
 2 PLAC Pretoria
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I5154@
 1 WIFE @I5145@
 0 @F460@ FAM
@@ -163407,7 +163407,7 @@
 1 MARR
 2 PLAC Primrose
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I7169@
 1 WIFE @I7172@
 1 CHIL @I7173@
@@ -163427,7 +163427,7 @@
 1 WIFE @I4554@
 0 @F946@ FAM
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I4979@
 1 WIFE @I5125@
 0 @F2386@ FAM
@@ -167331,7 +167331,7 @@
 1 WIFE @I10036@
 0 @F826@ FAM
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I8105@
 1 WIFE @I788@
 1 CHIL @I9524@
@@ -167630,7 +167630,7 @@
 2 DATE 23 JUN 1955
 2 PLAC Nelspruit
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I5071@
 1 WIFE @I5082@
 1 CHIL @I5083@
@@ -168747,7 +168747,7 @@
 2 DATE 29 MAY 1976
 2 PLAC Letsitele
 1 DIV
-2 PLAC (Onbekend)
+2 PLAC 
 1 HUSB @I3523@
 1 WIFE @I3527@
 1 CHIL @I3528@

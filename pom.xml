@@ -53,6 +53,11 @@
             <artifactId>miglayout-swing</artifactId>
             <version>5.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.seaglasslookandfeel.siteskin</groupId>
+            <artifactId>seaglass-site-skin</artifactId>
+            <version>1.0</version>
+        </dependency>
 
     </dependencies>
 

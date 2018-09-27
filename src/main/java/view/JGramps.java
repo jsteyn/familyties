@@ -23,7 +23,34 @@ public class JGramps {
     Properties properties = new Properties();
 
     ComponentController componentController = ComponentController.getInstance();
+
     JGramps() {
+        try {
+            // Set System L&F
+            UIManager.setLookAndFeel(
+                    //"com.seaglasslookandfeel.siteskin"
+                    //"javax.swing.plaf.metal.MetalLookAndFeel"
+                    // UIManager.getSystemLookAndFeelClassName()
+                    //"com.sun.java.swing.plaf.gtk.GTKLookAndFeel"
+                    //"com.sun.java.swing.plaf.motif.MotifLookAndFeel"
+                    "com.sun.java.swing.plaf.windows.WindowsLookAndFeel"
+                    // UIManager.getCrossPlatformLookAndFeelClassName()
+                    // UIManager.getSystemLookAndFeelClassName()
+            );
+        }
+        catch (UnsupportedLookAndFeelException e) {
+            // handle exception
+        }
+        catch (ClassNotFoundException e) {
+            // handle exception
+        }
+        catch (InstantiationException e) {
+            // handle exception
+        }
+        catch (IllegalAccessException e) {
+            // handle exception
+        }
+
         componentController.setMainpanel(mainPanel);
         JPopupMenu popupMenu = new JPopupMenu();
         mainFrame.setDefaultLookAndFeelDecorated(true);
@@ -66,6 +93,7 @@ public class JGramps {
     }
 
     static public void main(String[] args) {
+
         JGramps genDB2GEDCOM = new JGramps();
     }
 
