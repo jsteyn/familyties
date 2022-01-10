@@ -8,7 +8,6 @@ import java.awt.*;
 // https://www.codejava.net/java-se/swing/how-to-create-drop-down-button-in-swing
 
 public class ToolBarMenu  extends JToolBar{
-
     JButton grampsButton;
     JPopupMenu popupMenu = new JPopupMenu();
     JButton dropDownButton;
@@ -40,7 +39,7 @@ public class ToolBarMenu  extends JToolBar{
      * Returns an ImageIcon, or null if the path was invalid.
      */
     static ImageIcon createImageIcon(String path) {
-        java.net.URL imgURL = JGramps.class.getResource(path);
+        java.net.URL imgURL = FamilyTies.class.getResource(path);
         if (imgURL != null) {
             return new ImageIcon(imgURL);
         } else {

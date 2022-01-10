@@ -236,6 +236,7 @@ public class GenDB2GEDCOM {
 
             GedcomWriter gedcomWriter = new GedcomWriter(gedcom);
             gedcomWriter.write(gedcomFile);
+
         } catch (WriterCancelledException e) {
             e.printStackTrace();
         } catch (GedcomWriterException e) {
@@ -258,7 +259,7 @@ public class GenDB2GEDCOM {
     public static String parseDate(String date) {
         String ret;
         DateFormatSymbols dfs = new DateFormatSymbols();
-        String[] months = dfs.getShortMonths();
+        String[] months = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", ""}; //dfs.getShortMonths();
         String[] tokens = date.split("-");
         if (tokens.length == 3) {
             ret = tokens[2] + " " + months[Integer.valueOf(tokens[1]) - 1].toUpperCase() + " " + tokens[0];

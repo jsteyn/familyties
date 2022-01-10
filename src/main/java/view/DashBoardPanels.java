@@ -36,25 +36,9 @@ public class DashBoardPanels extends JPanel {
 
         surnameArea.setMinimumSize(new Dimension(surnameArea.getParent().getWidth(), surnameArea.getParent().getHeight()));
 
-        surnameArea.append("the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the " +
-                "quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown " +
-                "fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over " +
-                "the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog " +
-                "the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick " +
-                "brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox " +
-                "jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over " +
-                "the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog " +
-                "the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick ");
+        surnameArea.append("Surname Area");
 
-        welcomeArea.append("the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the " +
-                "quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown " +
-                "fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over " +
-                "the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog " +
-                "the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick " +
-                "brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox " +
-                "jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over " +
-                "the lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog " +
-                "the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog the quick ");
+        welcomeArea.append("Welcome Area");
 
     }
 }

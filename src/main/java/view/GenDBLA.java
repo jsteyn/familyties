@@ -7,35 +7,21 @@ import java.awt.*;
 import java.io.*;
 import java.util.Properties;
 
-public class JGramps {
+public class GenDBLA {
     JFrame mainFrame = new JFrame();
-    MainPanel mainPanel = new MainPanel();
-    SidePanel sidePanel = new SidePanel();
-
-    // menu bar
-    MainMenuBar menuBar = new MainMenuBar();
-    ToolBarMenu toolBarMenu = new ToolBarMenu();
-
-
     String lastdir = "";
     File f = new File("server.properties");
     InputStream is = null;
     Properties properties = new Properties();
+    GenDBLAMainPanel mainPanel = new GenDBLAMainPanel();
 
     ComponentController componentController = ComponentController.getInstance();
 
-    JGramps() {
+    GenDBLA() {
         try {
             // Set System L&F
             UIManager.setLookAndFeel(
-                    //"com.seaglasslookandfeel.siteskin"
-                    //"javax.swing.plaf.metal.MetalLookAndFeel"
-                    // UIManager.getSystemLookAndFeelClassName()
-                    //"com.sun.java.swing.plaf.gtk.GTKLookAndFeel"
-                    //"com.sun.java.swing.plaf.motif.MotifLookAndFeel"
-                    "com.sun.java.swing.plaf.windows.WindowsLookAndFeel"
-                    // UIManager.getCrossPlatformLookAndFeelClassName()
-                    // UIManager.getSystemLookAndFeelClassName()
+                     "com.sun.java.swing.plaf.windows.WindowsLookAndFeel"
             );
         }
         catch (UnsupportedLookAndFeelException e) {
@@ -50,9 +36,6 @@ public class JGramps {
         catch (IllegalAccessException e) {
             // handle exception
         }
-
-        componentController.setMainpanel(mainPanel);
-        JPopupMenu popupMenu = new JPopupMenu();
         mainFrame.setDefaultLookAndFeelDecorated(true);
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         try {
@@ -70,32 +53,22 @@ public class JGramps {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        mainFrame.setJMenuBar(menuBar);
-        mainFrame.add(toolBarMenu, BorderLayout.PAGE_START);
-
-        JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, sidePanel, mainPanel);
-        splitPane.setResizeWeight(0.5);
-        splitPane.setDividerLocation(150 + splitPane.getInsets().left);
-        mainFrame.add(splitPane);
-
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Image gramps = toolkit.getImage( ClassLoader.getSystemResource("gramps.png"));
         mainFrame.setIconImage(gramps);
+        mainFrame.setTitle("Genealogiese Familie Databasis");
+        mainFrame.add(mainPanel);
         mainFrame.pack();
         Toolkit tk = Toolkit.getDefaultToolkit();
-        int xSize = ((int) tk.getScreenSize().getWidth());
-        int ySize = ((int) tk.getScreenSize().getHeight());
+        int xSize = 700;
+        int ySize = 100;
         mainFrame.setSize(xSize,ySize);
-        mainFrame.show();
-        //mainFrame.setSize(1024, 768);
+        mainFrame.setVisible(true);
 
     }
 
     static public void main(String[] args) {
 
-        JGramps genDB2GEDCOM = new JGramps();
+        GenDBLA genDBLA = new GenDBLA();
     }
-
- }
-
+}
