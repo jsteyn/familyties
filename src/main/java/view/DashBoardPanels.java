@@ -39,6 +39,6 @@ public class DashBoardPanels extends JPanel {
         surnameArea.append("Surname Area");
 
         welcomeArea.append("Welcome Area");
-
+        setVisible(true);
     }
 }

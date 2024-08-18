@@ -2,3 +2,6 @@ data/
 .idea/
 *.iml
 target/
+*.ged
+*.gfdb
+*.jar

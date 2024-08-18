@@ -1,30 +1,29 @@
 package view;
 
 import controller.ComponentController;
+import net.miginfocom.swing.MigLayout;
 
 import javax.swing.*;
 import java.awt.*;
 import java.io.*;
 import java.util.Properties;
 
-public class FamilyTies {
-    JFrame mainFrame = new JFrame();
+public class FamilyTies extends JFrame {
+    ComponentController componentController = ComponentController.getInstance();
     MainPanel mainPanel = new MainPanel();
-    SidePanel sidePanel = new SidePanel();
+    ButtonPanel buttonPanel = new ButtonPanel(mainPanel);
 
     // menu bar
     MainMenuBar menuBar = new MainMenuBar();
     ToolBarMenu toolBarMenu = new ToolBarMenu();
-
 
     String lastdir = "";
     File f = new File("server.properties");
     InputStream is = null;
     Properties properties = new Properties();
 
-    ComponentController componentController = ComponentController.getInstance();
 
-    FamilyTies() {
+    public FamilyTies() {
         try {
             // Set System L&F
             UIManager.setLookAndFeel(
@@ -38,23 +37,16 @@ public class FamilyTies {
                     // UIManager.getSystemLookAndFeelClassName()
             );
         }
-        catch (UnsupportedLookAndFeelException e) {
-            // handle exception
-        }
-        catch (ClassNotFoundException e) {
-            // handle exception
-        }
-        catch (InstantiationException e) {
-            // handle exception
-        }
-        catch (IllegalAccessException e) {
+        catch (UnsupportedLookAndFeelException | IllegalAccessException | InstantiationException |
+               ClassNotFoundException e) {
             // handle exception
         }
 
+        setLayout(new MigLayout("", "[100]rel[grow, fill]", "[][grow, fill]"));
         componentController.setMainpanel(mainPanel);
         JPopupMenu popupMenu = new JPopupMenu();
-        mainFrame.setDefaultLookAndFeelDecorated(true);
-        mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setDefaultLookAndFeelDecorated(true);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         try {
             File f = new File("server.properties");
             is = new FileInputStream(f);
@@ -71,31 +63,23 @@ public class FamilyTies {
             e.printStackTrace();
         }
 
-        mainFrame.setJMenuBar(menuBar);
-        mainFrame.add(toolBarMenu, BorderLayout.PAGE_START);
+        setJMenuBar(menuBar);
+        toolBarMenu.setBorder(BorderFactory.createLineBorder(Color.BLACK));
+        add(toolBarMenu, "span 2, wrap");
+        add(buttonPanel, "");
+        add(mainPanel, "grow");
+        mainPanel.add(new DashBoardPanels());
 
-        JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, sidePanel, mainPanel);
-        splitPane.setResizeWeight(0.5);
-        splitPane.setDividerLocation(150 + splitPane.getInsets().left);
-        mainFrame.add(splitPane);
-
-        Toolkit toolkit = Toolkit.getDefaultToolkit();
-        Image gramps = toolkit.getImage( ClassLoader.getSystemResource("gramps.png"));
-        mainFrame.setIconImage(gramps);
-        mainFrame.pack();
+        ImageIcon gramps = new ImageIcon( ClassLoader.getSystemResource("gramps.png"));
+        setIconImage(gramps.getImage());
+        pack();
         Toolkit tk = Toolkit.getDefaultToolkit();
         int xSize = ((int) tk.getScreenSize().getWidth());
         int ySize = ((int) tk.getScreenSize().getHeight());
-        mainFrame.setSize(xSize,ySize);
-        mainFrame.show();
-        //mainFrame.setSize(1024, 768);
+        setSize(xSize,ySize);
+        setVisible(true);
+        setSize(1024, 768);
 
     }
-
-    static public void main(String[] args) {
-
-        FamilyTies genDB2GEDCOM = new FamilyTies();
-    }
-
  }
 

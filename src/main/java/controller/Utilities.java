@@ -22,11 +22,11 @@ import java.io.IOException;
 import java.text.DateFormatSymbols;
 import java.util.Map;
 
-public class GenDB2GEDCOM {
+public class Utilities {
 
     // TODO Child needs to refer back to family (or something like that).
 
-    static public void dothis(String gfdbFile, String gedcomFile) {
+    static public void genDB2GEDCOM(String gfdbFile, String gedcomFile) {
         File gdfile = new File(gfdbFile);
         //File gedfile = new File( gedcomFile);
         System.out.println("Reading gfdb file ...");

@@ -1,7 +1,7 @@
 package view;
 
 import controller.ComponentController;
-import controller.GenDB2GEDCOM;
+import controller.Utilities;
 import controller.SortedSurnames;
 import controller.SurnameListEntry;
 import model.GEDCOM_DB;
@@ -160,14 +160,14 @@ class MainMenuBar extends JMenuBar implements ActionListener {
             if (lastdir == null || lastdir.equals("")) {
                 lastdir = "~";
             }
-            JFileChooser fileChooser = new JFileChooser(lastdir);
-            fileChooser.setDialogTitle("Select GenDB file");
-            FileNameExtensionFilter filter = new FileNameExtensionFilter("GenDB File", "gfdb");
-            fileChooser.setFileFilter(filter);
-            int returnVal = fileChooser.showOpenDialog(mainFrame);
+            JFileChooser gfdbChooser = new JFileChooser(lastdir);
+            gfdbChooser.setDialogTitle("Select GenDB file");
+            FileNameExtensionFilter genDBFilter = new FileNameExtensionFilter("GenDB File", "gfdb");
+            gfdbChooser.setFileFilter(genDBFilter);
+            int returnVal = gfdbChooser.showOpenDialog(mainFrame);
             if (returnVal == JFileChooser.APPROVE_OPTION) {
-                File file = fileChooser.getSelectedFile();
-                lastdir = file.getParent();
+                File gfdbFile = gfdbChooser.getSelectedFile();
+                lastdir = gfdbFile.getParent();
                 properties.setProperty("lastdir", lastdir);
                 try {
                     OutputStream out = null;
@@ -178,16 +178,17 @@ class MainMenuBar extends JMenuBar implements ActionListener {
                 } catch (IOException e1) {
                     e1.printStackTrace();
                 }
-                String filename = file.getAbsolutePath();
-                JFileChooser fileChooser1 = new JFileChooser(lastdir);
-                fileChooser1.setDialogTitle("GEDCOM file name to save to ...");
-                FileNameExtensionFilter filter1 = new FileNameExtensionFilter("GEDCOM File", "ged");
-                fileChooser.setFileFilter(filter1);
-                int userSelection = fileChooser.showSaveDialog(mainFrame);
+                String gedFilename = gfdbFile.getAbsolutePath().replace(".gfdb", ".ged");
+                JFileChooser gedChooser = new JFileChooser(lastdir);
+                gedChooser.setDialogTitle("GEDCOM file name to save to ...");
+                FileNameExtensionFilter gedcomFilter = new FileNameExtensionFilter("GEDCOM File", "ged");
+                gedChooser.setFileFilter(gedcomFilter);
+                gedChooser.setSelectedFile(new File(gedFilename));
+                int userSelection = gedChooser.showSaveDialog(mainFrame);
 
                 if (userSelection == JFileChooser.APPROVE_OPTION) {
-                    File fileToSave = fileChooser.getSelectedFile();
-                    GenDB2GEDCOM.dothis(filename, fileToSave.getAbsolutePath());
+                    File fileToSave = gedChooser.getSelectedFile();
+                    Utilities.genDB2GEDCOM(gfdbFile.getAbsolutePath(), fileToSave.getAbsolutePath());
                 }
             }
             // QUIT
@@ -211,7 +212,7 @@ class MainMenuBar extends JMenuBar implements ActionListener {
             Arrays.sort(filesInDir);
             //database = (String) JOptionPane.showInputDialog(null, "Select database...", "Databases", JOptionPane.QUESTION_MESSAGE, null, filesInDir, filesInDir[0]);
             JFileChooser fileChooser = new JFileChooser(lastdir);
-            fileChooser.setDialogTitle("Select GenDB file");
+            fileChooser.setDialogTitle("Select GEDCOM file");
             FileNameExtensionFilter filter = new FileNameExtensionFilter("GEDCOM File", "ged");
             fileChooser.setFileFilter(filter);
             int returnVal = fileChooser.showOpenDialog(mainFrame);
@@ -272,7 +273,8 @@ class MainMenuBar extends JMenuBar implements ActionListener {
             componentController.getMainpanel().setVisible(false);
             System.out.println("set vis false");
         } else {
-            System.out.println(e.getActionCommand());
+            componentController.getMainpanel().setVisible(true);
+            System.out.println("set vis true");
         }
     }
 }

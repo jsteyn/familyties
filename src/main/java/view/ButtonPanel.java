@@ -4,10 +4,12 @@ import net.miginfocom.swing.MigLayout;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 //http://www.miglayout.com/mavensite/
 
-public class SidePanel extends JPanel {
+public class ButtonPanel extends JPanel {
     JButton dashboard;
     JButton people;
     JButton relationships;
@@ -21,12 +23,15 @@ public class SidePanel extends JPanel {
     JButton repositories;
     JButton media;
     JButton notes;
+    MainPanel mainPanel;
 
-    public SidePanel() {
+    public ButtonPanel(MainPanel mainPanel) {
         super();
-        MigLayout migLayout = new MigLayout("wrap 1");
+        this.mainPanel = mainPanel;
+        MigLayout migLayout = new MigLayout("", "[][]", "[grow]");
         setLayout(migLayout);
-        Toolkit toolkit = Toolkit.getDefaultToolkit();
+        JPanel buttons = new JPanel();
+        buttons.setLayout(new MigLayout("", "[]", ""));
         dashboard = new JButton("Dashboard", createImageIcon("/gramps-gramplet.png"));
         people = new JButton("People", createImageIcon("/gramps-person.png"));
         relationships = new JButton("Relationships", createImageIcon("/gramps-relation.png"));
@@ -41,20 +46,24 @@ public class SidePanel extends JPanel {
         media = new JButton("Media", createImageIcon("/gramps-media.png"));
         notes = new JButton("Notes", createImageIcon("/gramps-notes.png"));
 
+        dashboard.addActionListener(mainPanel);
+        people.addActionListener(mainPanel);
 
-        add(dashboard);
-        add(people);
-        add(relationships);
-        add(families);
-        add(charts);
-        add(events);
-        add(places);
-        add(geography);
-        add(sources);
-        add(citations);
-        add(repositories);
-        add(media);
-        add(notes);
+        buttons.setBorder(BorderFactory.createLineBorder(Color.GREEN));
+        buttons.add(dashboard, "split 11, flowy, top, sgx");
+        buttons.add(people, "sgx");
+        buttons.add(relationships, "wrap");
+        buttons.add(families, "wrap");
+        buttons.add(charts, "wrap");
+        buttons.add(events, "wrap");
+        buttons.add(places, "wrap");
+        buttons.add(geography, "wrap");
+        buttons.add(sources, "wrap");
+        buttons.add(citations, "wrap");
+        buttons.add(repositories, "wrap");
+        buttons.add(media, "wrap");
+        buttons.add(notes, "wrap");
+        add(buttons);
     }
     /**
      * Returns an ImageIcon, or null if the path was invalid.
@@ -68,4 +77,5 @@ public class SidePanel extends JPanel {
             return null;
         }
     }
+
 }

@@ -6,6 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.net.URL;
 
+/**
+ * Reference: https://docs.oracle.com/javase/tutorial/displayCode.html?code=https://docs.oracle.com/javase/tutorial/uiswing/examples/components/ToolBarDemoProject/src/components/ToolBarDemo.java
+ */
 public class GenDBLAMainPanel extends JPanel implements ActionListener {
     static final private String SEARCH = "Soek";
     static final private String ADD = "Byvoeg";
